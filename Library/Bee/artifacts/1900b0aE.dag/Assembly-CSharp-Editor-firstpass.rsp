@@ -342,6 +342,8 @@
 -r:"C:/Users/macyc/OneDrive/文档/GitHub/FYP-GIB3-Legolization-using-Lego-Plates/FYP-GIB3-Legolization-using-Lego-Plates/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"C:/Users/macyc/OneDrive/文档/GitHub/FYP-GIB3-Legolization-using-Lego-Plates/FYP-GIB3-Legolization-using-Lego-Plates/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"C:/Users/macyc/OneDrive/文档/GitHub/FYP-GIB3-Legolization-using-Lego-Plates/FYP-GIB3-Legolization-using-Lego-Plates/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
