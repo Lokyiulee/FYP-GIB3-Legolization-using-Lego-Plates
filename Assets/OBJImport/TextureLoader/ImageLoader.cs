@@ -48,7 +48,7 @@ namespace Dummiesman
         /// <param name="stream">The stream</param>
         /// <param name="format">The format **NOT UNITYENGINE.TEXTUREFORMAT**</param>
         /// <returns></returns>
-        public static Texture2D LoadTexture(Stream stream, TextureFormat format)
+        public Texture2D LoadTexture(Stream stream, TextureFormat format)
         {
             if (format == TextureFormat.BMP)
             {

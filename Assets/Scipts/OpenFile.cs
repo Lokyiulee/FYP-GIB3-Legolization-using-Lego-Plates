@@ -26,7 +26,7 @@ public class OpenFile : MonoBehaviour
     private static extern void UploadFile(string gameObjectName, string methodName, string filter, bool multiple);
 
     public void OnClickOpen(){
-        UploadFile(gameObject.name, "OnFileUpload", ".obj", false);
+        UploadFile(gameObject.name, "OnFileUpload", "", false);
     }
 
     public void OnFileUpload(string url) {
@@ -35,7 +35,7 @@ public class OpenFile : MonoBehaviour
 #else
     public void OnClickOpen()
     {
-        string[] paths = StandaloneFileBrowser.OpenFilePanel("Open File", "", "obj", false);
+        string[] paths = StandaloneFileBrowser.OpenFilePanel("Open File", "", "", false);
         if (paths.Length > 0)
         {
             Globals.path1 = paths[0];
@@ -44,6 +44,7 @@ public class OpenFile : MonoBehaviour
         }
     }
 #endif
+
     private IEnumerator OutputRoutineOpen(string url)
     {
         UnityWebRequest www = UnityWebRequest.Get(url);
@@ -63,6 +64,7 @@ public class OpenFile : MonoBehaviour
             model.transform.localScale = new Vector3(-1, 1, 1);
             FitOnScreen();
             GameObject originalGameObject = GameObject.Find("WavefrontObject");
+            VoxelSystem.Test.texture = new ImageLoader().LoadTexture(textStream, ImageLoader.TextureFormat.JPG);
             for(var i = 0; i < originalGameObject.transform.childCount; i++){
             GameObject child = originalGameObject.transform.GetChild(i).gameObject;
             Test ts = child.AddComponent(typeof(Test)) as Test;
@@ -75,7 +77,7 @@ public class OpenFile : MonoBehaviour
     IEnumerator UploadFileData()
     {
 
-        using (var uwr = new UnityWebRequest("ftp://lego:Fyp123456@223.17.73.211//" + Path.GetFileName(Globals.path1), UnityWebRequest.kHttpVerbPUT))
+        using (var uwr = new UnityWebRequest("ftp://lego:Fyp123456@223.17.75.107//" + Path.GetFileName(Globals.path1), UnityWebRequest.kHttpVerbPUT))
         {
             uwr.uploadHandler = new UploadHandlerFile(Globals.path1);
             Debug.Log("uploading file");
