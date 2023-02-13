@@ -18,7 +18,7 @@ public void Start(){
     meshfil = GetComponent<MeshFilter>();
     mesh = meshfil.mesh;
     voxelizer = (ComputeShader)Resources.Load("Voxelizer");
-    //texture = (Texture2D)Resources.Load("WallPaper");
+    texture = (Texture2D)Resources.Load("WallPaper");
 }   
 public void Open(){
     GPUVoxelData data =  GPUVoxelizer.Voxelize(voxelizer,mesh,resolution,true);

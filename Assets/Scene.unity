@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028359, g: 0.22571385, b: 0.30692258, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -851,7 +851,7 @@ GameObject:
   - component: {fileID: 1860884200}
   - component: {fileID: 1860884199}
   m_Layer: 5
-  m_Name: Button
+  m_Name: V
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -892,9 +892,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   child: []
   originalGameObject: {fileID: 0}
-  tex: []
-  mat: {fileID: 0}
-  textures: []
 --- !u!114 &1860884200
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,4 +1,4 @@
-using System.IO;
+  using System.IO;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
@@ -10,6 +10,7 @@ using TMPro;
 using UnityEngine.Networking;
 using Dummiesman;
 
+
 namespace VoxelSystem{
 public class OpenFile : MonoBehaviour
 {
@@ -19,6 +20,7 @@ public class OpenFile : MonoBehaviour
     public static class Globals
     {
         public static string path1 = "";
+        public static string path2 = "";
     }
 
 #if UNITY_WEBGL && !UNITY_EDITOR
@@ -35,36 +37,45 @@ public class OpenFile : MonoBehaviour
 #else
     public void OnClickOpen()
     {
-        string[] paths = StandaloneFileBrowser.OpenFilePanel("Open File", "", "", false);
-        if (paths.Length > 0)
+        string[] paths1 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "obj", false);
+        //string[] paths2 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "mtl", false);
+        if (paths1.Length > 0)
         {
-            Globals.path1 = paths[0];
+            Globals.path1 = paths1[0];
+            //Globals.path2 = paths2[0];
             StartCoroutine(UploadFileData());
-            StartCoroutine(OutputRoutineOpen(new System.Uri(paths[0]).AbsoluteUri));
+            StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri));
+            //StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri,new System.Uri(paths2[0]).AbsoluteUri));
+
         }
     }
 #endif
 
-    private IEnumerator OutputRoutineOpen(string url)
+    //private IEnumerator OutputRoutineOpen(string url1, string url2)
+    private IEnumerator OutputRoutineOpen(string url1)
+
     {
-        UnityWebRequest www = UnityWebRequest.Get(url);
-        yield return www.SendWebRequest();
-        if (www.result != UnityWebRequest.Result.Success)
+        UnityWebRequest www1 = UnityWebRequest.Get(url1);
+        //UnityWebRequest www2 = UnityWebRequest.Get(url2);
+        yield return www1.SendWebRequest();
+        if (www1.result != UnityWebRequest.Result.Success)
         {
-            Debug.Log("WWW ERROR " + www.error);
+            Debug.Log("WWW ERROR " + www1.error);
         }
         else
         {
-            MemoryStream textStream = new MemoryStream(Encoding.UTF8.GetBytes(www.downloadHandler.text));
+            MemoryStream textStream1 = new MemoryStream(Encoding.UTF8.GetBytes(www1.downloadHandler.text));
+            //MemoryStream textStream2 = new MemoryStream(Encoding.UTF8.GetBytes(www2.downloadHandler.text));
+
             if(model != null)
             {
                 Destroy(model);
             }
-            model = new OBJLoader().Load(textStream);
+            //model = new OBJLoader().Load(textStream1,textStream2);
+            model = new OBJLoader().Load(textStream1);
             model.transform.localScale = new Vector3(-1, 1, 1);
             FitOnScreen();
             GameObject originalGameObject = GameObject.Find("WavefrontObject");
-            VoxelSystem.Test.texture = new ImageLoader().LoadTexture(textStream, ImageLoader.TextureFormat.JPG);
             for(var i = 0; i < originalGameObject.transform.childCount; i++){
             GameObject child = originalGameObject.transform.GetChild(i).gameObject;
             Test ts = child.AddComponent(typeof(Test)) as Test;

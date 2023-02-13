@@ -10,7 +10,6 @@ public class button123 : MonoBehaviour {
 	void Start () {
 		Button btn = this.GetComponent<Button>();
 		btn.onClick.AddListener(TaskOnClick);
-		
 		}
 	void TaskOnClick(){
 		originalGameObject = GameObject.Find("WavefrontObject");
