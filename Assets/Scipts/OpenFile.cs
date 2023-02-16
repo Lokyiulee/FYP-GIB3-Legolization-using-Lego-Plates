@@ -1,4 +1,4 @@
-  using System.IO;
+using System.IO;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
@@ -119,8 +119,12 @@ public class OpenFile : MonoBehaviour
         Bounds bound = GetBound(model);
         Vector3 boundSize = bound.size;
         float diagonal = Mathf.Sqrt((boundSize.x * boundSize.x) + (boundSize.y * boundSize.y) + (boundSize.z * boundSize.z));
-        //Camera.main.orthographicSize = diagonal / 1.0f;
-        //Camera.main.transform.position = bound.center;
+        Camera.main.orthographicSize = diagonal / 1.0f;
+        Camera.main.transform.position = bound.center;
+        GameObject virtualCam = GameObject.Find("CameraSystem");  //Centering
+        Vector3 p = bound.center;
+        p.z = p.z + 600;
+        virtualCam.transform.position = p;
     }
     public void DoublicateFaces()
     {

@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2023-02-14T01:42:34.454+08:00
-  initializedAtString: 2023-02-14T01:42:34.447+08:00
+  lastUpdatedAtString: 2023-02-16T18:58:48.620+08:00
+  initializedAtString: 2023-02-16T17:58:05.002+08:00
   localBranches:
+  - name: main
+    tracking: origin/main
   - name: Testing
     tracking: origin/Testing
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/main
     tracking: '[None]'
   - name: origin/Testing
     tracking: '[None]'
@@ -35,8 +35,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - main
     - Testing
     values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/Lokyiulee/FYP-GIB3-Legolization-using-Lego-Plates.git
+      trackingBranch: main
     - name: Testing
       remote:
         name: origin
@@ -48,16 +54,10 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - main
       - Testing
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/Lokyiulee/FYP-GIB3-Legolization-using-Lego-Plates.git
-        trackingBranch: 
-      - name: main
         remote:
           name: origin
           url: https://github.com/Lokyiulee/FYP-GIB3-Legolization-using-Lego-Plates.git
