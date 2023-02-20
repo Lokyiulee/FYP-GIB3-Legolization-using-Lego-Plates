@@ -23,6 +23,7 @@ public class OpenFile : MonoBehaviour
         public static string path2 = "";
     }
 
+
 #if UNITY_WEBGL && !UNITY_EDITOR
     [DllImport("__Internal")]
     private static extern void UploadFile(string gameObjectName, string methodName, string filter, bool multiple);
@@ -35,7 +36,7 @@ public class OpenFile : MonoBehaviour
         StartCoroutine(OutputRoutineOpen(url));
     }
 #else
-    public void OnClickOpen()
+        public void OnClickOpen()
     {
         string[] paths1 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "obj", false);
         //string[] paths2 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "mtl", false);
@@ -123,8 +124,8 @@ public class OpenFile : MonoBehaviour
         Camera.main.transform.position = bound.center;
         GameObject virtualCam = GameObject.Find("CameraSystem");  //Centering
         Vector3 p = bound.center;
-        p.z = p.z + 600;
-        virtualCam.transform.position = p;
+        p.z = p.z + 800;
+        virtualCam.transform.position = p;   
     }
     public void DoublicateFaces()
     {
