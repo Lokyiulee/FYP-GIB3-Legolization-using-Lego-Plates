@@ -13,18 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-02-20T14:04:36.447+08:00
-  initializedAtString: 2023-02-20T14:00:09.886+08:00
+  lastUpdatedAtString: 2023-02-20T14:31:15.013+08:00
+  initializedAtString: 2023-02-20T14:30:18.359+08:00
   entries:
-  - path: Assets\Camera\CameraSystem.cs
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Camera\CameraSystem.cs
-    projectPath: Assets\Camera\CameraSystem.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scipts\OpenFile.cs
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Scipts\OpenFile.cs
-    projectPath: Assets\Scipts\OpenFile.cs
+  - path: Library\AnnotationManager
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -34,15 +28,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\29\2925dc333e7d450715324400e3fa782b
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\29\2925dc333e7d450715324400e3fa782b
-    projectPath: Library\Artifacts\29\2925dc333e7d450715324400e3fa782b
+  - path: Library\ArtifactDB-lock
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\0a\0a257940ea77c935a0a2424bd99a47f0
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\0a\0a257940ea77c935a0a2424bd99a47f0
+    projectPath: Library\Artifacts\0a\0a257940ea77c935a0a2424bd99a47f0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\32\325618990d8f4a921e809701e50e1ab9
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\32\325618990d8f4a921e809701e50e1ab9
-    projectPath: Library\Artifacts\32\325618990d8f4a921e809701e50e1ab9
+  - path: Library\Artifacts\0d\0d8c4f78db0d82e39599f6cb96de79a9
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\0d\0d8c4f78db0d82e39599f6cb96de79a9
+    projectPath: Library\Artifacts\0d\0d8c4f78db0d82e39599f6cb96de79a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
+    projectPath: Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
+    projectPath: Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -50,35 +62,53 @@ MonoBehaviour:
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\4f\4f6a0ec66bc5fe48db9c6ed8f144222d
     projectPath: Library\Artifacts\4f\4f6a0ec66bc5fe48db9c6ed8f144222d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\59\5991a78cf0f855230ce8ce2bc40b1d0e
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\59\5991a78cf0f855230ce8ce2bc40b1d0e
     projectPath: Library\Artifacts\59\5991a78cf0f855230ce8ce2bc40b1d0e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8e50586a9eeaad9a29f2d445e5409523
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\8e\8e50586a9eeaad9a29f2d445e5409523
-    projectPath: Library\Artifacts\8e\8e50586a9eeaad9a29f2d445e5409523
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
+    projectPath: Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7b\7b1ca6817e9d2e7ecb6f7b365d3f3346
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\7b\7b1ca6817e9d2e7ecb6f7b365d3f3346
+    projectPath: Library\Artifacts\7b\7b1ca6817e9d2e7ecb6f7b365d3f3346
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8b\8b994bbbb482433bffc82d12b64c1e74
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\8b\8b994bbbb482433bffc82d12b64c1e74
+    projectPath: Library\Artifacts\8b\8b994bbbb482433bffc82d12b64c1e74
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\91\910a11ff69e6f53cd4562e99fabbf12d
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\91\910a11ff69e6f53cd4562e99fabbf12d
+    projectPath: Library\Artifacts\91\910a11ff69e6f53cd4562e99fabbf12d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\92\92b27064b937f5ffe4031c8f57b575d6
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\92\92b27064b937f5ffe4031c8f57b575d6
     projectPath: Library\Artifacts\92\92b27064b937f5ffe4031c8f57b575d6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a1\a1c330198227112108801fc12e8085f2
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\a1\a1c330198227112108801fc12e8085f2
-    projectPath: Library\Artifacts\a1\a1c330198227112108801fc12e8085f2
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\93\93e069fd41d2456106d6397f07e47429
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\93\93e069fd41d2456106d6397f07e47429
+    projectPath: Library\Artifacts\93\93e069fd41d2456106d6397f07e47429
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\aa\aa3aef2e1d50a2a001dfe89a1948eb50
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\aa\aa3aef2e1d50a2a001dfe89a1948eb50
-    projectPath: Library\Artifacts\aa\aa3aef2e1d50a2a001dfe89a1948eb50
+  - path: Library\Artifacts\98\9800d2b3fda2e19c910da6b7d0b8d723
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\98\9800d2b3fda2e19c910da6b7d0b8d723
+    projectPath: Library\Artifacts\98\9800d2b3fda2e19c910da6b7d0b8d723
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -86,17 +116,11 @@ MonoBehaviour:
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\b2\b21ff5ee2f6ec49989428fba352e9ac5
     projectPath: Library\Artifacts\b2\b21ff5ee2f6ec49989428fba352e9ac5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b4\b4fff500648960eda647ee87e91d4703
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\b4\b4fff500648960eda647ee87e91d4703
-    projectPath: Library\Artifacts\b4\b4fff500648960eda647ee87e91d4703
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\bf\bf0d8a3a3afb2a01fa48ee214b9cc3d8
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\bf\bf0d8a3a3afb2a01fa48ee214b9cc3d8
-    projectPath: Library\Artifacts\bf\bf0d8a3a3afb2a01fa48ee214b9cc3d8
+  - path: Library\Artifacts\b4\b44b4fef9aae4e5abb61204c58b5735a
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\b4\b44b4fef9aae4e5abb61204c58b5735a
+    projectPath: Library\Artifacts\b4\b44b4fef9aae4e5abb61204c58b5735a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -104,29 +128,1013 @@ MonoBehaviour:
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\c8\c8011a01bca767e8d51294ae83a97ab7
     projectPath: Library\Artifacts\c8\c8011a01bca767e8d51294ae83a97ab7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\df\df07e6c2a3869636f3c92518daabab5e
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\df\df07e6c2a3869636f3c92518daabab5e
-    projectPath: Library\Artifacts\df\df07e6c2a3869636f3c92518daabab5e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ca\ca99ae332e40220155b19edf7138ab15
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\ca\ca99ae332e40220155b19edf7138ab15
+    projectPath: Library\Artifacts\ca\ca99ae332e40220155b19edf7138ab15
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+  - path: Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE.dag.outputdata
+    projectPath: Library\Bee\1900b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag_fsmtime
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE.dag_fsmtime
+    projectPath: Library\Bee\1900b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE-HP.dag_fsmtime
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE-HP.dag_fsmtime
+    projectPath: Library\Bee\1900b0aE-HP.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Cinemachine.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Cinemachine.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Cinemachine.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Cinemachine.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\com.unity.cinemachine.editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.EditorCoroutines.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Performance.Profile-Analyzer.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.PlasticSCM.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Rider.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Settings.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TestTools.CodeCoverage.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Core.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Flow.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.SettingsProvider.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.Shared.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualScripting.State.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VisualStudio.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.TestRunner.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.TestRunner.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.AdditionalFile.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.AdditionalFile.txt
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.AdditionalFile.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_517D1F5E91C22EA7.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_517D1F5E91C22EA7.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_517D1F5E91C22EA7.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_AC4AE6BCA33C56E7.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_AC4AE6BCA33C56E7.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Antlr3.Runtime.dll_AC4AE6BCA33C56E7.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_1BD22E6821CCB85E.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_1BD22E6821CCB85E.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_1BD22E6821CCB85E.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_7800F298BA72849E.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_7800F298BA72849E.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.Plastic.Newtonsoft.Json.dll_7800F298BA72849E.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_D2548F2332B9209B.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_D2548F2332B9209B.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_D2548F2332B9209B.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_DF9D79603089C45B.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_DF9D79603089C45B.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_DF9D79603089C45B.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_5C491BC5E269E000.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_5C491BC5E269E000.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_5C491BC5E269E000.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_763EBC347B581040.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_763EBC347B581040.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.IonicZip.dll_763EBC347B581040.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_0FF2A7BD5A8A5BCD.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_0FF2A7BD5A8A5BCD.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_0FF2A7BD5A8A5BCD.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_B8059195C2BD6E74.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_B8059195C2BD6E74.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_B8059195C2BD6E74.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_C54E7BD2C08E1234.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_C54E7BD2C08E1234.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.TextureAssets.dll_C54E7BD2C08E1234.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_20E7684201F0107C.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_20E7684201F0107C.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_20E7684201F0107C.mvfrm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_2E30527EFFC0B43C.mvfrm
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_2E30527EFFC0B43C.mvfrm
+    projectPath: Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.YamlDotNet.dll_2E30527EFFC0B43C.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Bee\backend_profiler0.traceevents
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\backend_profiler1.traceevents
+    projectPath: Library\Bee\backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\bee_backend.info
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\bee_backend.info
+    projectPath: Library\Bee\bee_backend.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -142,6 +1150,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Bee\tundra.log.json
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Bee\TundraBuildState.state
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\TundraBuildState.state
     projectPath: Library\Bee\TundraBuildState.state
@@ -153,6 +1167,12 @@ MonoBehaviour:
     projectPath: Library\Bee\TundraBuildState.state.map
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\BuildSettings.asset
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\BuildSettings.asset
+    projectPath: Library\BuildSettings.asset
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\EditorInstance.json
@@ -160,9 +1180,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -171,7 +1209,7 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -184,9 +1222,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LibraryFormatVersion.txt
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\LibraryFormatVersion.txt
+    projectPath: Library\LibraryFormatVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\MonoManager.asset
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\MonoManager.asset
+    projectPath: Library\MonoManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -196,15 +1270,381 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Cinemachine.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Cinemachine.dll
+    projectPath: Library\ScriptAssemblies\Cinemachine.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+  - path: Library\ScriptAssemblies\Cinemachine.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Cinemachine.pdb
+    projectPath: Library\ScriptAssemblies\Cinemachine.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Core.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Flow.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualScripting.State.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -214,9 +1654,717 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache.db
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\00407e1c78ef8ec940cec0dd330739f4.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\00407e1c78ef8ec940cec0dd330739f4.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\00407e1c78ef8ec940cec0dd330739f4.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\01a700a6a318f4da1f6418ef87bfb9ec.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\031468e84516afbd7648293d7485bc61.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\031468e84516afbd7648293d7485bc61.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\031468e84516afbd7648293d7485bc61.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\08c1065ddddd252851195882870ac375.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\0e133795a7888e23a6c20c536b4e916b.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\0e133795a7888e23a6c20c536b4e916b.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\0e133795a7888e23a6c20c536b4e916b.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\10cc179919b68c7aadc61d6771efec84.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\19640eec3b36a7e6604ee81a3c425823.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1b0f5507f81429b92f664d7c22e6f10d.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2550f88bbad0783e1da539e2abc63e93.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2772e4a20823dd4e3bdd472be038099c.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2772e4a20823dd4e3bdd472be038099c.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2772e4a20823dd4e3bdd472be038099c.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\28632776903da840ee20f675cee2134c.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\28632776903da840ee20f675cee2134c.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\28632776903da840ee20f675cee2134c.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2dec063f8d5726946d12f4b6f0ed1eac.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2dec063f8d5726946d12f4b6f0ed1eac.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2dec063f8d5726946d12f4b6f0ed1eac.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2e9ca0bd25ac6a8207e66e58c1dead21.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\313de5da3000623fe4cc5c91070ea03c.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35277a0ee4913a1779c168d4d535644a.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\35eec1e8e08f6f473cf1e098f7041d20.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\46a4dd01b3112151186544e93b494640.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\49b70f2614b797b58baa7c0b7101d87e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\4ae09ba5eb80207351c686b7a8afd231.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\5094cedbf29ce7ed997d24d84db8ca0e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\5094cedbf29ce7ed997d24d84db8ca0e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\5094cedbf29ce7ed997d24d84db8ca0e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\52ed4ed79d5973157b5f2840f5dc21bd.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\52ed4ed79d5973157b5f2840f5dc21bd.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\52ed4ed79d5973157b5f2840f5dc21bd.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\56b3cbe5adf7e51d860951245814fa25.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\57f33a4f7ce1b74c88fe07f9d013e240.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\5e0368665b4206dbc250e76792506a89.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\5e0368665b4206dbc250e76792506a89.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\5e0368665b4206dbc250e76792506a89.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\644fdc714c0e10627b776256afdf64dd.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\644fdc714c0e10627b776256afdf64dd.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\644fdc714c0e10627b776256afdf64dd.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6654b0b879f0a7f3bb43394a202cd308.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6798018df830d0580f48665a0694961e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\686b6f66b42ed373d26925558161e45e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\686b6f66b42ed373d26925558161e45e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\686b6f66b42ed373d26925558161e45e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\76778a0404e2c3f681c9f12a4c105a42.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b7d5f1cf411ca64985d30e4c6f430ad.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b7d5f1cf411ca64985d30e4c6f430ad.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b7d5f1cf411ca64985d30e4c6f430ad.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7bed610a9e7e99d9a1dfa2b10a9b710e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d3f649b87022d083598655d944ab286.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7d42ee0e9ea528f33660f808dbc658cd.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7e6f821fd9d04e0867e6833da0563bec.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\86fd4ea1d961b3a8d136157b73990c85.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\896f8c48199e4e1932dd0dba9d465c76.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\8ff5e1dfcd3ffda27cf1668f04f60858.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\907e3a704f2cfa4abe6f739d70b0121e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\90ebceb590a0835e50deda8f88859e41.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\91122a4d4771f1644497e27baeeefe52.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\99e0f7bd1d07abf50cb25ea97de1731e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\9fb24223c2f05a51dbc2e1d89c1f5280.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\aafbbcec10d88ce8dca04ab81a7201db.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b1dc868901a4a9296b3ac7d496f93260.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b3dfce9b049e7f3efab071a4c56f0ef8.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\b879e473809a949a403c27673084368b.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\bb01a77b5c0b6610290b6ee0bda70305.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\c4ccb4f8a018e5a5c6acd7ccbe6dff54.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\c4ccb4f8a018e5a5c6acd7ccbe6dff54.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\c4ccb4f8a018e5a5c6acd7ccbe6dff54.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\cafbbf6a19f7f9fb62eee89a437f3cf6.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\ce148d396d9cc2eff1dc032e62d9fb66.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d05377854107bec2874b97f2d91bf558.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d15d72de23ca8e40ef6cef0ef5dd60d6.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d2743216a4ac9771ae40f5e817d19c6b.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d537b6f8f744a89822ab9a2f9bcab6be.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d537b6f8f744a89822ab9a2f9bcab6be.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d537b6f8f744a89822ab9a2f9bcab6be.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d6a0d8a94c8a41851660cb4586f25221.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d7271049c7b7f197f20029630e6a82e8.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\d9f2500b07dbbf1c0b03408e0419f794.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e022b7707c92388216e0c19e65faa830.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e022b7707c92388216e0c19e65faa830.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e022b7707c92388216e0c19e65faa830.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e4243314ac9ec7bdd1714f3075c828be.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e77ad11152163a447f2e25d7773b538c.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e77ad11152163a447f2e25d7773b538c.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e77ad11152163a447f2e25d7773b538c.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e82550a96f2032df2d05470155aaed39.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e82550a96f2032df2d05470155aaed39.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e82550a96f2032df2d05470155aaed39.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e9bf40a0db03646a8e28a5cef83cc317.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f3938f67e67926cd49eabefd9cd6caf9.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\f3938f67e67926cd49eabefd9cd6caf9.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f3938f67e67926cd49eabefd9cd6caf9.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f9ed6ae27d805b4ea8751164395fc5ac.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\CMWaveform6dd3\01\1351f1822aab6287d0cef269dee1191b.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\CMWaveform6dd3\01\1351f1822aab6287d0cef269dee1191b.bin
+    projectPath: Library\ShaderCache\compute\CMWaveform6dd3\01\1351f1822aab6287d0cef269dee1191b.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\CMWaveform6dd3\01\37c734ad1cf432edfad09367d0131e9a.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\CMWaveform6dd3\01\37c734ad1cf432edfad09367d0131e9a.bin
+    projectPath: Library\ShaderCache\compute\CMWaveform6dd3\01\37c734ad1cf432edfad09367d0131e9a.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\Voxelizer5fdf\01\34231f14a580481a2bb2440f2f51b230.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\Voxelizer5fdf\01\34231f14a580481a2bb2440f2f51b230.bin
+    projectPath: Library\ShaderCache\compute\Voxelizer5fdf\01\34231f14a580481a2bb2440f2f51b230.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\Voxelizer5fdf\01\9b941a560cac94e9a6070ce5ef0cf2cf.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\Voxelizer5fdf\01\9b941a560cac94e9a6070ce5ef0cf2cf.bin
+    projectPath: Library\ShaderCache\compute\Voxelizer5fdf\01\9b941a560cac94e9a6070ce5ef0cf2cf.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\Voxelizer5fdf\01\efd43066378916a21b2f178bb6c4fdc2.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\Voxelizer5fdf\01\efd43066378916a21b2f178bb6c4fdc2.bin
+    projectPath: Library\ShaderCache\compute\Voxelizer5fdf\01\efd43066378916a21b2f178bb6c4fdc2.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\compute\Voxelizer5fdf\01\fee4650e6c61045ac14c71d9c765ade7.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\Voxelizer5fdf\01\fee4650e6c61045ac14c71d9c765ade7.bin
+    projectPath: Library\ShaderCache\compute\Voxelizer5fdf\01\fee4650e6c61045ac14c71d9c765ade7.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\shader\CMWaveforme4e5\01\43cf2eb413f1e177e481f8dc21a7571f.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\CMWaveforme4e5\01\43cf2eb413f1e177e481f8dc21a7571f.bin
+    projectPath: Library\ShaderCache\shader\CMWaveforme4e5\01\43cf2eb413f1e177e481f8dc21a7571f.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\CMWaveforme4e5\01\7f10ba5c5f369bd6b28cea420e4aa80e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\CMWaveforme4e5\01\7f10ba5c5f369bd6b28cea420e4aa80e.bin
+    projectPath: Library\ShaderCache\shader\CMWaveforme4e5\01\7f10ba5c5f369bd6b28cea420e4aa80e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\ConvertNormalShader5f61\02\9f5f1b0e2c3e114dc218de5a670d2306.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\ConvertNormalShader5f61\02\9f5f1b0e2c3e114dc218de5a670d2306.bin
+    projectPath: Library\ShaderCache\shader\ConvertNormalShader5f61\02\9f5f1b0e2c3e114dc218de5a670d2306.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\ConvertNormalShader5f61\02\d0bb1735e3f1a8c7d7447adddefbf9e9.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\ConvertNormalShader5f61\02\d0bb1735e3f1a8c7d7447adddefbf9e9.bin
+    projectPath: Library\ShaderCache\shader\ConvertNormalShader5f61\02\d0bb1735e3f1a8c7d7447adddefbf9e9.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\1eb61766934f88d217d6f2b4c30ba3c7.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\1eb61766934f88d217d6f2b4c30ba3c7.bin
+    projectPath: Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\1eb61766934f88d217d6f2b4c30ba3c7.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\eb3c22ad1597b3edcab8d9242df300db.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\eb3c22ad1597b3edcab8d9242df300db.bin
+    projectPath: Library\ShaderCache\shader\ProfileAnalyzerShader493b\01\eb3c22ad1597b3edcab8d9242df300db.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap128e\02\6167201ab2e1a274e56b769095259608.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap128e\02\6167201ab2e1a274e56b769095259608.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap128e\02\6167201ab2e1a274e56b769095259608.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap128e\02\c9ee669d572501440db0f3c534e38cf4.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap128e\02\c9ee669d572501440db0f3c534e38cf4.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap128e\02\c9ee669d572501440db0f3c534e38cf4.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\1b4ac9694df4627587dc87d0f1e2a183.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\1b4ac9694df4627587dc87d0f1e2a183.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\1b4ac9694df4627587dc87d0f1e2a183.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\d2ca4df063ba9fca67747993d32897f2.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\d2ca4df063ba9fca67747993d32897f2.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Custom-Atlas48bb\02\d2ca4df063ba9fca67747993d32897f2.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\54a2ec1138f33584c1058cbbaa87d5a7.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\54a2ec1138f33584c1058cbbaa87d5a7.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\54a2ec1138f33584c1058cbbaa87d5a7.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\9125f7db53bc29dc93bc049cffcd5326.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\9125f7db53bc29dc93bc049cffcd5326.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\9125f7db53bc29dc93bc049cffcd5326.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\d5d3c41d1570d6e75ee03337a9eab3ca.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\d5d3c41d1570d6e75ee03337a9eab3ca.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\d5d3c41d1570d6e75ee03337a9eab3ca.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\f4b1383c5b078a1f5d76bc87ad444a31.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\f4b1383c5b078a1f5d76bc87ad444a31.bin
+    projectPath: Library\ShaderCache\shader\TMP_Bitmap-Mobile1e3b\02\f4b1383c5b078a1f5d76bc87ad444a31.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF Internal Editor9c44\01\9848d1c8deae4a018469df3fe7c46acc.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      Internal Editor9c44\01\9848d1c8deae4a018469df3fe7c46acc.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF Internal Editor9c44\01\9848d1c8deae4a018469df3fe7c46acc.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF Internal Editor9c44\01\f8942445e29c7b5275d45c69fffadd6e.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      Internal Editor9c44\01\f8942445e29c7b5275d45c69fffadd6e.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF Internal Editor9c44\01\f8942445e29c7b5275d45c69fffadd6e.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF Overlaydd89\02\343cab329299b6e366e3e00805b73da1.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      Overlaydd89\02\343cab329299b6e366e3e00805b73da1.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF Overlaydd89\02\343cab329299b6e366e3e00805b73da1.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF Overlaydd89\02\863a6bf24e9314e87763fb76c98929f3.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      Overlaydd89\02\863a6bf24e9314e87763fb76c98929f3.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF Overlaydd89\02\863a6bf24e9314e87763fb76c98929f3.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF SSD14eb\02\5e25aaf30efcb0345c0fea17d6aa9911.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      SSD14eb\02\5e25aaf30efcb0345c0fea17d6aa9911.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF SSD14eb\02\5e25aaf30efcb0345c0fea17d6aa9911.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF SSD14eb\02\9b810412a4ad92099affac6962f60ba2.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF
+      SSD14eb\02\9b810412a4ad92099affac6962f60ba2.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF SSD14eb\02\9b810412a4ad92099affac6962f60ba2.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF68e6\02\25f807a9197835099f55590ec2e52e4b.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF68e6\02\25f807a9197835099f55590ec2e52e4b.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF68e6\02\25f807a9197835099f55590ec2e52e4b.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF68e6\02\2d62e948151497fbd613789448a39ea5.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF68e6\02\2d62e948151497fbd613789448a39ea5.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF68e6\02\2d62e948151497fbd613789448a39ea5.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile Maskingbc1e\02\9c117d93d50fba4c2b60aa5f70b80e55.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      Maskingbc1e\02\9c117d93d50fba4c2b60aa5f70b80e55.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile Maskingbc1e\02\9c117d93d50fba4c2b60aa5f70b80e55.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile Maskingbc1e\02\cce336aa5a7099f121c9281c275995f5.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      Maskingbc1e\02\cce336aa5a7099f121c9281c275995f5.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile Maskingbc1e\02\cce336aa5a7099f121c9281c275995f5.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile Overlaya02a\02\05c5c45055ebe9c0936ddf7e2a7ebed1.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      Overlaya02a\02\05c5c45055ebe9c0936ddf7e2a7ebed1.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile Overlaya02a\02\05c5c45055ebe9c0936ddf7e2a7ebed1.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile Overlaya02a\02\9527a01346709a33de1468f86124e585.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      Overlaya02a\02\9527a01346709a33de1468f86124e585.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile Overlaya02a\02\9527a01346709a33de1468f86124e585.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile SSDc8d1\02\65eb4356ce6e4771339264402bf963bb.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      SSDc8d1\02\65eb4356ce6e4771339264402bf963bb.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile SSDc8d1\02\65eb4356ce6e4771339264402bf963bb.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobile SSDc8d1\02\d632bda5bdc90e6bb888c2b5605f879d.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobile
+      SSDc8d1\02\d632bda5bdc90e6bb888c2b5605f879d.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobile SSDc8d1\02\d632bda5bdc90e6bb888c2b5605f879d.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\069a45345d603f35bef4aa2e624f4bd6.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\069a45345d603f35bef4aa2e624f4bd6.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\069a45345d603f35bef4aa2e624f4bd6.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\23066fbb2d9eff769d7c13e61a619f21.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\23066fbb2d9eff769d7c13e61a619f21.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\02\23066fbb2d9eff769d7c13e61a619f21.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\132247f8993f6e9c9c54d1dfe489b655.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\132247f8993f6e9c9c54d1dfe489b655.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\132247f8993f6e9c9c54d1dfe489b655.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\482bc6770d113db6cca5451312067a18.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\482bc6770d113db6cca5451312067a18.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\482bc6770d113db6cca5451312067a18.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\755dcba71ce28d49ebc3623ac199a857.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\755dcba71ce28d49ebc3623ac199a857.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\755dcba71ce28d49ebc3623ac199a857.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\8c2baba6462bf285eefe71161a64c012.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\8c2baba6462bf285eefe71161a64c012.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\8c2baba6462bf285eefe71161a64c012.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\9d82961c3e7b42a120f56ad6df3a1396.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\9d82961c3e7b42a120f56ad6df3a1396.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\9d82961c3e7b42a120f56ad6df3a1396.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\ca0d562439146c86ce89fbd714d76424.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\ca0d562439146c86ce89fbd714d76424.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surfacef7ad\02\ca0d562439146c86ce89fbd714d76424.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\534d6095206f261a4b3c4cf192504b10.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\534d6095206f261a4b3c4cf192504b10.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\534d6095206f261a4b3c4cf192504b10.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\6a66e382b193afc1fc70d2e5e9ed49da.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\6a66e382b193afc1fc70d2e5e9ed49da.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\6a66e382b193afc1fc70d2e5e9ed49da.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\a21dcff59713800d1e514d0bf413a798.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\a21dcff59713800d1e514d0bf413a798.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\a21dcff59713800d1e514d0bf413a798.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\ab98bede67422edb5ed4b1bf8ef978cb.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\ab98bede67422edb5ed4b1bf8ef978cb.bin
+    projectPath: Library\ShaderCache\shader\TMP_SDF-Surface-Mobile8518\02\ab98bede67422edb5ed4b1bf8ef978cb.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Spritecf81\02\746700837426398d487d033f7624e346.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Spritecf81\02\746700837426398d487d033f7624e346.bin
+    projectPath: Library\ShaderCache\shader\TMP_Spritecf81\02\746700837426398d487d033f7624e346.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\shader\TMP_Spritecf81\02\f4d9f99cd5d68bdb122af1e51262dc29.bin
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\TMP_Spritecf81\02\f4d9f99cd5d68bdb122af1e51262dc29.bin
+    projectPath: Library\ShaderCache\shader\TMP_Spritecf81\02\f4d9f99cd5d68bdb122af1e51262dc29.bin
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\SourceAssetDB
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SpriteAtlasDatabase.asset
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -238,15 +2386,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-45d7122a8fe50ae4eb8808e57842ca1e
-    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-45d7122a8fe50ae4eb8808e57842ca1e
-    projectPath: Temp\FSTimeGet-45d7122a8fe50ae4eb8808e57842ca1e
+  - path: Temp\FSTimeGet-cd7efc62cc2271c47abb6e0ab8543cde
+    fullPath: C:\Users\samsung\Documents\GitHub\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-cd7efc62cc2271c47abb6e0ab8543cde
+    projectPath: Temp\FSTimeGet-cd7efc62cc2271c47abb6e0ab8543cde
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
