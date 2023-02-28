@@ -17,6 +17,7 @@ public class button123 : MonoBehaviour {
 		for(var i = 0; i < child.Length; i++){
         child[i] = originalGameObject.transform.GetChild(i).gameObject;
 		child[i].GetComponent<Test>().Open();
+		child[i].GetComponent<Renderer>().material.shader = Shader.Find("Modular Bricks/Pipes/PBL");
 		}
 	}
 }

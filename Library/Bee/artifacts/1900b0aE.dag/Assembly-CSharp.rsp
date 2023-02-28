@@ -116,6 +116,7 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Packages/SharpZipLib.1.4.2/lib/netstandard2.1/ICSharpCode.SharpZipLib.dll"
 -r:"Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll"
 -r:"Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -326,6 +327,7 @@
 -r:"C:/Users/macyc/Downloads/FYP-GIB3-Legolization-using-Lego-Plates/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/NuGetForUnity.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -366,16 +368,11 @@
 "Assets/OBJImport/TextureLoader/ImageLoaderHelper.cs"
 "Assets/OBJImport/TextureLoader/ImageUtils.cs"
 "Assets/OBJImport/TextureLoader/TGALoader.cs"
-"Assets/Packages/Voxelizer/Scripts/CPUVoxelizer.cs"
-"Assets/Packages/Voxelizer/Scripts/GPUVoxelData.cs"
-"Assets/Packages/Voxelizer/Scripts/GPUVoxelizer.cs"
-"Assets/Packages/Voxelizer/Scripts/Kernel.cs"
-"Assets/Packages/Voxelizer/Scripts/Test.cs"
-"Assets/Packages/Voxelizer/Scripts/Voxel.cs"
-"Assets/Packages/Voxelizer/Scripts/VoxelMesh.cs"
 "Assets/Scipts/button123.cs"
 "Assets/Scipts/CameraControl.cs"
 "Assets/Scipts/OpenFile.cs"
+"Assets/Scipts/Test_ZipWrapper.cs"
+"Assets/Scipts/ZipWrapper.cs"
 "Assets/StandaloneFileBrowser/IStandaloneFileBrowser.cs"
 "Assets/StandaloneFileBrowser/Sample/BasicSample.cs"
 "Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileImage.cs"
@@ -388,6 +385,13 @@
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs"
+"Assets/Voxelizer/Scripts/CPUVoxelizer.cs"
+"Assets/Voxelizer/Scripts/GPUVoxelData.cs"
+"Assets/Voxelizer/Scripts/GPUVoxelizer.cs"
+"Assets/Voxelizer/Scripts/Kernel.cs"
+"Assets/Voxelizer/Scripts/Test.cs"
+"Assets/Voxelizer/Scripts/Voxel.cs"
+"Assets/Voxelizer/Scripts/VoxelMesh.cs"
 -langversion:9.0
 
 /deterministic

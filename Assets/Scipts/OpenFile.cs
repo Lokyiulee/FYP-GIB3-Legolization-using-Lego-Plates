@@ -119,13 +119,28 @@ public class OpenFile : MonoBehaviour
     {
         Bounds bound = GetBound(model);
         Vector3 boundSize = bound.size;
+            Debug.Log(boundSize.x);
+            Debug.Log(boundSize.y);
         float diagonal = Mathf.Sqrt((boundSize.x * boundSize.x) + (boundSize.y * boundSize.y) + (boundSize.z * boundSize.z));
-        Camera.main.orthographicSize = diagonal / 1.0f;
+        //Camera.main.orthographicSize = diagonal / 1.0f;
         Camera.main.transform.position = bound.center;
+        //Camera.main.fieldOfView = 10;
         GameObject virtualCam = GameObject.Find("CameraSystem");  //Centering
         Vector3 p = bound.center;
-        p.z = p.z + 800;
-        virtualCam.transform.position = p;   
+            if ((boundSize.x/16) > (boundSize.y/9))
+            {
+                p.z = p.z + (float)(boundSize.x/2/ 0.14054083) + boundSize.z ; //tan8
+            }
+            else
+            {
+                p.z = p.z + (float)(boundSize.y/2/ 0.06992681) + boundSize.z ; //tan4
+            }
+            
+        virtualCam.transform.position = p;
+        
+
+
+
     }
     public void DoublicateFaces()
     {
