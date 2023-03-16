@@ -37,12 +37,11 @@ public class MTLLoader {
             string processedPath = (_objFileInfo != null) ? searchPath.Replace("%FileName%", Path.GetFileNameWithoutExtension(_objFileInfo.Name)) 
                                                           : searchPath;
             string filePath = Path.Combine(processedPath, path);
-
+            Debug.Log(filePath);
             //return if eists
             if (File.Exists(filePath))
             {
                 var tex = ImageLoader.LoadTexture(filePath);
-
                 if(isNormalMap)
                     tex = ImageUtils.ConvertToNormalMap(tex);
 
@@ -123,7 +122,7 @@ public class MTLLoader {
 
         int texNameIdx = processedLine.IndexOf(splitLine[texNameCmpIdx]);
         string texturePath = processedLine.Substring(texNameIdx);
-
+        Debug.Log(texturePath);
         return texturePath;
     }
 
@@ -134,14 +133,17 @@ public class MTLLoader {
     /// <returns>Dictionary containing loaded materials</returns>
     public Dictionary<string, Material> Load(Stream input)
     {
+        Debug.Log(input);
+
         var inputReader = new StreamReader(input);
         var reader = new StringReader(inputReader.ReadToEnd());
 
         Dictionary<string, Material> mtlDict = new Dictionary<string, Material>();
         Material currentMaterial = null;
-
+        Debug.Log("Hi");
         for (string line = reader.ReadLine(); line != null; line = reader.ReadLine())
         {
+            Debug.Log("Bye");
             if (string.IsNullOrWhiteSpace(line))
                 continue;
 
@@ -181,6 +183,7 @@ public class MTLLoader {
             //diffuse map
             if (splitLine[0] == "map_Kd" || splitLine[0] == "map_kd")
             {
+                Debug.Log("kd");
                 string texturePath = GetTexPathFromMapStatement(processedLine, splitLine);
                 if(texturePath == null)
                 {
@@ -244,6 +247,8 @@ public class MTLLoader {
             //emission map
             if (splitLine[0] == "map_Ka" || splitLine[0] == "map_ka")
             {
+                Debug.Log("Ka");
+
                 string texturePath = GetTexPathFromMapStatement(processedLine, splitLine);
                 if(texturePath == null)
                 {

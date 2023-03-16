@@ -286,8 +286,10 @@ namespace Dummiesman
         /// <returns>Returns a GameObject represeting the OBJ file, with each imported object as a child.</returns>
         public GameObject Load(Stream input, Stream mtlInput)
         {
+            Debug.Log("OBJLOADER");
             var mtlLoader = new MTLLoader();
             Materials = mtlLoader.Load(mtlInput);
+            
 
             return Load(input);
         }

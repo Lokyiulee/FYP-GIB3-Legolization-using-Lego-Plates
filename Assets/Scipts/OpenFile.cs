@@ -16,12 +16,17 @@ public class OpenFile : MonoBehaviour
 {
     public TextMeshProUGUI textMeshPro;
     public GameObject model;
+    public Texture2D image;
+    public Dictionary<string, Material> mtl;
+    string path2;
 
-    public static class Globals
+
+        public static class Globals
     {
         public static string path1 = "";
         public static string path2 = "";
-    }
+
+        }
 
 
 #if UNITY_WEBGL && !UNITY_EDITOR
@@ -39,25 +44,30 @@ public class OpenFile : MonoBehaviour
         public void OnClickOpen()
     {
         string[] paths1 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "obj", false);
-        //string[] paths2 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "mtl", false);
-        if (paths1.Length > 0)
+        string[] paths2 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "mtl", false);
+        path2 = string.Concat(paths2);
+
+            //for (int i = 0; i < paths1.Length; i++)
+            //{
+            //}
+            if (paths1.Length > 0)
         {
             Globals.path1 = paths1[0];
-            //Globals.path2 = paths2[0];
-            StartCoroutine(UploadFileData());
-            StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri));
-            //StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri,new System.Uri(paths2[0]).AbsoluteUri));
+            Globals.path2 = paths2[0];
+            //StartCoroutine(UploadFileData());
+            //StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri));
+            StartCoroutine(OutputRoutineOpen(new System.Uri(paths1[0]).AbsoluteUri,new System.Uri(paths2[0]).AbsoluteUri));
 
         }
     }
 #endif
 
-    //private IEnumerator OutputRoutineOpen(string url1, string url2)
-    private IEnumerator OutputRoutineOpen(string url1)
+    private IEnumerator OutputRoutineOpen(string url1, string url2)
+    //private IEnumerator OutputRoutineOpen(string url1)
 
     {
         UnityWebRequest www1 = UnityWebRequest.Get(url1);
-        //UnityWebRequest www2 = UnityWebRequest.Get(url2);
+        UnityWebRequest www2 = UnityWebRequest.Get(url2);
         yield return www1.SendWebRequest();
         if (www1.result != UnityWebRequest.Result.Success)
         {
@@ -66,15 +76,23 @@ public class OpenFile : MonoBehaviour
         else
         {
             MemoryStream textStream1 = new MemoryStream(Encoding.UTF8.GetBytes(www1.downloadHandler.text));
-            //MemoryStream textStream2 = new MemoryStream(Encoding.UTF8.GetBytes(www2.downloadHandler.text));
+            MemoryStream textStream2 = new MemoryStream(Encoding.UTF8.GetBytes(www2.downloadHandler.text));
 
             if(model != null)
             {
                 Destroy(model);
             }
-            //model = new OBJLoader().Load(textStream1,textStream2);
-            model = new OBJLoader().Load(textStream1);
-            model.transform.localScale = new Vector3(-1, 1, 1);
+                Debug.Log("BEFORE");
+
+            var mtlloader = new MTLLoader();
+            mtl = mtlloader.Load(path2);
+            var obj = new OBJLoader();
+            obj.Materials = mtl;
+            model = obj.Load(textStream1);
+            Debug.Log("AFTER");
+
+                //model = new OBJLoader().Load(textStream1);
+                model.transform.localScale = new Vector3(-1, 1, 1);
             FitOnScreen();
             GameObject originalGameObject = GameObject.Find("WavefrontObject");
             for(var i = 0; i < originalGameObject.transform.childCount; i++){
@@ -119,8 +137,6 @@ public class OpenFile : MonoBehaviour
     {
         Bounds bound = GetBound(model);
         Vector3 boundSize = bound.size;
-            Debug.Log(boundSize.x);
-            Debug.Log(boundSize.y);
         float diagonal = Mathf.Sqrt((boundSize.x * boundSize.x) + (boundSize.y * boundSize.y) + (boundSize.z * boundSize.z));
         //Camera.main.orthographicSize = diagonal / 1.0f;
         Camera.main.transform.position = bound.center;
