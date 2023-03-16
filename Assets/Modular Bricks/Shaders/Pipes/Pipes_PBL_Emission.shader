@@ -9,8 +9,8 @@ Shader "Modular Bricks/Pipes/PBL Emission" {
 		_Emission("Emission", Range(0, 1)) = 0.2959921
 		_EmissionColor("Emission Color", Color) = (0.8455882,0.1181337,0.1181337,1)
 		[Toggle] _DynamicEmissionLM("Dynamic Emission (Lightmapper)", Int) = 0
-		_Radius("Radius", Float) = 0.1
-		_Height("Height", Float) = 0.4
+		_Radius("Radius", Float) = 0.24
+		_Height("Height", Float) = 0.16
 	}
 	SubShader{
 		Tags{"RenderType" = "Opaque"}

@@ -6,8 +6,8 @@ Shader "Modular Bricks/Pipes/PBL" {
 		_MainTex("Base Color", 2D) = "white" {}
 		_Metallic("Metallic", Range(0, 1)) = 0
 		_Gloss("Gloss", Range(0, 1)) = 0.4700855
-		_Radius("Radius", Float) = 0.025
-		_Height("Height", Float) = 0.2
+		_Radius("Radius", Float) = 0.24
+		_Height("Height", Float) = 0.96
 	}
 	SubShader{
 		Tags{"RenderType" = "Opaque"}

@@ -51,14 +51,42 @@ namespace VoxelSystem {
 			var triBuffer = new ComputeBuffer(triangles.Length, Marshal.SizeOf(typeof(int)));
 			triBuffer.SetData(triangles);
 
-			var maxLength = Mathf.Max(bounds.size.x, Mathf.Max(bounds.size.y, bounds.size.z));
-			var unit = maxLength / resolution;
+            var maxLength = Mathf.Max(bounds.size.x, Mathf.Max(bounds.size.y, bounds.size.z));
+            var unit = 0.8f; // voxel size of 0.8*0.8*0.96cm
             var hunit = unit * 0.5f;
 
             // Extend (min & max) to voxelize boundary surface correctly.
             var start = bounds.min - new Vector3(hunit, hunit, hunit);
             var end = bounds.max + new Vector3(hunit, hunit, hunit);
             var size = end - start;
+            float voxelSizeX = 0.8f;
+            float voxelSizeY = 0.8f;
+            float voxelSizeZ = 0.96f;
+
+            // calculate number of voxels
+            int voxelCountX = Mathf.CeilToInt(size.x / voxelSizeX);
+            int voxelCountY = Mathf.CeilToInt(size.y / voxelSizeY);
+            int voxelCountZ = Mathf.CeilToInt(size.z / voxelSizeZ);
+
+            // adjust the size to fit the voxel size
+            size.x = voxelCountX * voxelSizeX;
+            size.y = voxelCountY * voxelSizeY;
+            size.z = voxelCountZ * voxelSizeZ;
+
+            // calculate the actual unit size of each voxel
+            float unitX = size.x / voxelCountX;
+            float unitY = size.y / voxelCountY;
+            float unitZ = size.z / voxelCountZ;
+            float halfUnitX = unitX / 2f;
+            float halfUnitY = unitY / 2f;
+            float halfUnitZ = unitZ / 2f;
+
+            voxelizer.SetFloat(kUnitKey, unitX);
+            voxelizer.SetFloat(kInvUnitKey, 1f / unitX);
+            voxelizer.SetFloat(kHalfUnitKey, halfUnitX);
+            voxelizer.SetInt(kWidthKey, voxelCountX);
+            voxelizer.SetInt(kHeightKey, voxelCountY);
+            voxelizer.SetInt(kDepthKey, voxelCountZ);
 
             int w, h, d;
             if(!pow2) {
@@ -101,12 +129,20 @@ namespace VoxelSystem {
 			voxelizer.Dispatch(surfaceFrontKer.Index, indexes / (int)surfaceFrontKer.ThreadX + 1, (int)surfaceFrontKer.ThreadY, (int)surfaceFrontKer.ThreadZ);
 
             // surface back
-			var surfaceBackKer = new Kernel(voxelizer, kSurfaceBackKernelKey);
-			voxelizer.SetBuffer(surfaceBackKer.Index, kVertBufferKey, vertBuffer);
-			voxelizer.SetBuffer(surfaceBackKer.Index, kUVBufferKey, uvBuffer);
-			voxelizer.SetBuffer(surfaceBackKer.Index, kTriBufferKey, triBuffer);
-			voxelizer.SetBuffer(surfaceBackKer.Index, kVoxelBufferKey, voxelBuffer);
-			voxelizer.Dispatch(surfaceBackKer.Index, indexes / (int)surfaceBackKer.ThreadX + 1, (int)surfaceBackKer.ThreadY, (int)surfaceBackKer.ThreadZ);
+            var surfaceBackKer = new Kernel(voxelizer, kSurfaceBackKernelKey);
+            voxelizer.SetBuffer(surfaceBackKer.Index, kVertBufferKey, vertBuffer);
+            voxelizer.SetBuffer(surfaceBackKer.Index, kUVBufferKey, uvBuffer);
+            voxelizer.SetBuffer(surfaceBackKer.Index, kTriBufferKey, triBuffer);
+            voxelizer.SetBuffer(surfaceBackKer.Index, kVoxelBufferKey, voxelBuffer);
+            voxelizer.Dispatch(surfaceBackKer.Index, indexes / (int)surfaceBackKer.ThreadX + 1, (int)surfaceBackKer.ThreadY, (int)surfaceBackKer.ThreadZ);
+
+            if (volume)
+            {
+                var volumeKer = new Kernel(voxelizer, kVolumeKernelKey);
+                voxelizer.SetBuffer(volumeKer.Index, kVoxelBufferKey, voxelBuffer);
+                voxelizer.Dispatch(volumeKer.Index, voxelCountX / (int)volumeKer.ThreadX + 1, voxelCountY / (int)volumeKer.ThreadY + 1, voxelCountZ / (int)volumeKer.ThreadZ + 1);
+            }
+           
 
             if(volume)
             {
@@ -141,6 +177,7 @@ namespace VoxelSystem {
             return volume;
         }
 
+
         static RenderTexture CreateTexture3D(GPUVoxelData data, RenderTextureFormat format, FilterMode filterMode)
         {
             var texture = new RenderTexture(data.Width, data.Height, data.Depth, format, RenderTextureReadWrite.Default);
@@ -149,12 +186,14 @@ namespace VoxelSystem {
             texture.enableRandomWrite = true;
             texture.filterMode = filterMode;
             texture.wrapMode = TextureWrapMode.Clamp;
+            texture.depth = 0; // Set depth to 0 to create a texture without depth
             texture.Create();
 
             return texture;
         }
 
-	}
+
+    }
 
 }
 
