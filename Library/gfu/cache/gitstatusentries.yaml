@@ -13,210 +13,46 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-03-16T17:36:13.734+08:00
-  initializedAtString: 2023-03-16T17:00:58.440+08:00
+  lastUpdatedAtString: 2023-03-16T17:48:55.938+08:00
+  initializedAtString: 2023-03-16T17:48:21.405+08:00
   entries:
   - path: Assets\LEGO SNOT.shader
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\LEGO
       SNOT.shader
     projectPath: Assets\LEGO SNOT.shader
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\LEGO SNOT.shader.meta
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\LEGO
       SNOT.shader.meta
     projectPath: Assets\LEGO SNOT.shader.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Modular Bricks\Shaders\Pipes\LEGO_SNOT.shader
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Modular
       Bricks\Shaders\Pipes\LEGO_SNOT.shader
     projectPath: Assets\Modular Bricks\Shaders\Pipes\LEGO_SNOT.shader
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Modular Bricks\Shaders\Pipes\LEGO_SNOT.shader.meta
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Modular
       Bricks\Shaders\Pipes\LEGO_SNOT.shader.meta
     projectPath: Assets\Modular Bricks\Shaders\Pipes\LEGO_SNOT.shader.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Modular Bricks\Shaders\Pipes\Pipes_PBL.shader
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Modular
-      Bricks\Shaders\Pipes\Pipes_PBL.shader
-    projectPath: Assets\Modular Bricks\Shaders\Pipes\Pipes_PBL.shader
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Modular Bricks\Shaders\Pipes\Pipes_PBL_Emission.shader
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Modular
-      Bricks\Shaders\Pipes\Pipes_PBL_Emission.shader
-    projectPath: Assets\Modular Bricks\Shaders\Pipes\Pipes_PBL_Emission.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Voxelizer\Scripts\GPUVoxelizer.cs
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Assets\Voxelizer\Scripts\GPUVoxelizer.cs
-    projectPath: Assets\Voxelizer\Scripts\GPUVoxelizer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\02\025fe8096316718b718425c2af9c3c39
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\02\025fe8096316718b718425c2af9c3c39
-    projectPath: Library\Artifacts\02\025fe8096316718b718425c2af9c3c39
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\02\02878ccb2a992d1384b250d87fde08f7
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\02\02878ccb2a992d1384b250d87fde08f7
-    projectPath: Library\Artifacts\02\02878ccb2a992d1384b250d87fde08f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\03\032f15b1161337fb2ca4a5df54fe512a
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\03\032f15b1161337fb2ca4a5df54fe512a
-    projectPath: Library\Artifacts\03\032f15b1161337fb2ca4a5df54fe512a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\07\07077fa78a2c4ccd1f420090a0dc81ca
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\07\07077fa78a2c4ccd1f420090a0dc81ca
-    projectPath: Library\Artifacts\07\07077fa78a2c4ccd1f420090a0dc81ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\09\097e2ef9027a0c3335b83b509c152c8f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\09\097e2ef9027a0c3335b83b509c152c8f
-    projectPath: Library\Artifacts\09\097e2ef9027a0c3335b83b509c152c8f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0e\0e15e5929f1b02db4acfca3680b9122f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\0e\0e15e5929f1b02db4acfca3680b9122f
-    projectPath: Library\Artifacts\0e\0e15e5929f1b02db4acfca3680b9122f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\10\1070d46724d40084665f37f8df269f52
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\10\1070d46724d40084665f37f8df269f52
-    projectPath: Library\Artifacts\10\1070d46724d40084665f37f8df269f52
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\11\113f4090aa831c6502fb32deec6e1a97
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\11\113f4090aa831c6502fb32deec6e1a97
     projectPath: Library\Artifacts\11\113f4090aa831c6502fb32deec6e1a97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\13\135eabcc83145139af6418716baf106b
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\13\135eabcc83145139af6418716baf106b
-    projectPath: Library\Artifacts\13\135eabcc83145139af6418716baf106b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1a\1aa81adc814cfdf85022d5d56bfb86b3
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\1a\1aa81adc814cfdf85022d5d56bfb86b3
-    projectPath: Library\Artifacts\1a\1aa81adc814cfdf85022d5d56bfb86b3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1c\1c1b5e6015d14daeae9d967cff44665f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\1c\1c1b5e6015d14daeae9d967cff44665f
-    projectPath: Library\Artifacts\1c\1c1b5e6015d14daeae9d967cff44665f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\27\2742acab418fe4b479291256718f2a28
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\27\2742acab418fe4b479291256718f2a28
-    projectPath: Library\Artifacts\27\2742acab418fe4b479291256718f2a28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\2800afe7b12a97b084420a342abf9717
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\28\2800afe7b12a97b084420a342abf9717
-    projectPath: Library\Artifacts\28\2800afe7b12a97b084420a342abf9717
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2c\2c718dfaeb6d741d5b2d5116e3f8ed44
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\2c\2c718dfaeb6d741d5b2d5116e3f8ed44
-    projectPath: Library\Artifacts\2c\2c718dfaeb6d741d5b2d5116e3f8ed44
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\2c\2cf705a3181bc4a0137c4ae26deac7af
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\2c\2cf705a3181bc4a0137c4ae26deac7af
-    projectPath: Library\Artifacts\2c\2cf705a3181bc4a0137c4ae26deac7af
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\32\32f1afd4631f8aac6ed45b49eb5f8191
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\32\32f1afd4631f8aac6ed45b49eb5f8191
-    projectPath: Library\Artifacts\32\32f1afd4631f8aac6ed45b49eb5f8191
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\37\3728cd290c36de9e501f3123b791200e
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\37\3728cd290c36de9e501f3123b791200e
-    projectPath: Library\Artifacts\37\3728cd290c36de9e501f3123b791200e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3a\3a99f7a4a7800ffb9797d00bfe2c49d7
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\3a\3a99f7a4a7800ffb9797d00bfe2c49d7
-    projectPath: Library\Artifacts\3a\3a99f7a4a7800ffb9797d00bfe2c49d7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3e\3ea13f7b074251d2ce97ebd6dde6165f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\3e\3ea13f7b074251d2ce97ebd6dde6165f
-    projectPath: Library\Artifacts\3e\3ea13f7b074251d2ce97ebd6dde6165f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\46\4647978d24dc747ddcee5dc55cc99049
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\46\4647978d24dc747ddcee5dc55cc99049
-    projectPath: Library\Artifacts\46\4647978d24dc747ddcee5dc55cc99049
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\46\46eb692ca180de128b747c110af9eef1
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\46\46eb692ca180de128b747c110af9eef1
-    projectPath: Library\Artifacts\46\46eb692ca180de128b747c110af9eef1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4a\4a9ab1b82f860de31797f2c42f902d0c
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\4a\4a9ab1b82f860de31797f2c42f902d0c
-    projectPath: Library\Artifacts\4a\4a9ab1b82f860de31797f2c42f902d0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4c2762ae4f518c4c0e883cae52db1ede
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\4c\4c2762ae4f518c4c0e883cae52db1ede
-    projectPath: Library\Artifacts\4c\4c2762ae4f518c4c0e883cae52db1ede
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    projectPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\55\55c33dc12e66feb749488e3bfdbf0068
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\55\55c33dc12e66feb749488e3bfdbf0068
-    projectPath: Library\Artifacts\55\55c33dc12e66feb749488e3bfdbf0068
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -224,338 +60,26 @@ MonoBehaviour:
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\56\567f7a13a38b344c851b05b4f88bab9c
     projectPath: Library\Artifacts\56\567f7a13a38b344c851b05b4f88bab9c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\57\579daa085181817949d96b6eb3ecc883
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\57\579daa085181817949d96b6eb3ecc883
-    projectPath: Library\Artifacts\57\579daa085181817949d96b6eb3ecc883
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\57\57a243507638490f71090bb2b3c461a1
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\57\57a243507638490f71090bb2b3c461a1
-    projectPath: Library\Artifacts\57\57a243507638490f71090bb2b3c461a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\58\583a1b921926e2e66f1c8d90a0452a14
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\58\583a1b921926e2e66f1c8d90a0452a14
-    projectPath: Library\Artifacts\58\583a1b921926e2e66f1c8d90a0452a14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\58\583d22f888db3043aadb1e564313c251
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\58\583d22f888db3043aadb1e564313c251
-    projectPath: Library\Artifacts\58\583d22f888db3043aadb1e564313c251
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5e\5e9560b2443fc770b29a7ca39f26a63e
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\5e\5e9560b2443fc770b29a7ca39f26a63e
-    projectPath: Library\Artifacts\5e\5e9560b2443fc770b29a7ca39f26a63e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5f\5f8818a099dbc9db2bac2d1379f460ff
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\5f\5f8818a099dbc9db2bac2d1379f460ff
-    projectPath: Library\Artifacts\5f\5f8818a099dbc9db2bac2d1379f460ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
-    projectPath: Library\Artifacts\61\614b8088b3f3a55a99a19ec24c3f313c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\62\6237c1dd9b0fe376ce41f13b33526d1e
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\62\6237c1dd9b0fe376ce41f13b33526d1e
     projectPath: Library\Artifacts\62\6237c1dd9b0fe376ce41f13b33526d1e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\65\6568b3c64100f7777889e57b0dd824d9
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\65\6568b3c64100f7777889e57b0dd824d9
-    projectPath: Library\Artifacts\65\6568b3c64100f7777889e57b0dd824d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\68\688b069a9bc0330e6491c0c210d75c99
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\68\688b069a9bc0330e6491c0c210d75c99
     projectPath: Library\Artifacts\68\688b069a9bc0330e6491c0c210d75c99
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6a\6a2f742c657916004b23ff414b085ad7
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\6a\6a2f742c657916004b23ff414b085ad7
-    projectPath: Library\Artifacts\6a\6a2f742c657916004b23ff414b085ad7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6b\6b703ea94c8df0f46f4506b5cd26f030
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\6b\6b703ea94c8df0f46f4506b5cd26f030
-    projectPath: Library\Artifacts\6b\6b703ea94c8df0f46f4506b5cd26f030
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6e\6e98ec7f57afd8174c1755418be05d29
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\6e\6e98ec7f57afd8174c1755418be05d29
-    projectPath: Library\Artifacts\6e\6e98ec7f57afd8174c1755418be05d29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6f349ab8a9c47c56d61a3854ae7fe7de
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\6f\6f349ab8a9c47c56d61a3854ae7fe7de
-    projectPath: Library\Artifacts\6f\6f349ab8a9c47c56d61a3854ae7fe7de
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\6f\6fdc723f088f57b989c27d7904a882ef
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\6f\6fdc723f088f57b989c27d7904a882ef
-    projectPath: Library\Artifacts\6f\6fdc723f088f57b989c27d7904a882ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\73\732ce30e35637ef37acef3bac0f9b4ba
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\73\732ce30e35637ef37acef3bac0f9b4ba
-    projectPath: Library\Artifacts\73\732ce30e35637ef37acef3bac0f9b4ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\75cf4aaa0b6442fd2e0eb06139d7f485
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\75\75cf4aaa0b6442fd2e0eb06139d7f485
-    projectPath: Library\Artifacts\75\75cf4aaa0b6442fd2e0eb06139d7f485
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7a\7a559f6738b0ee216631e1548f4cb876
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\7a\7a559f6738b0ee216631e1548f4cb876
-    projectPath: Library\Artifacts\7a\7a559f6738b0ee216631e1548f4cb876
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7a\7ac7fa4994cf3675c6f5b450ca16f71a
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\7a\7ac7fa4994cf3675c6f5b450ca16f71a
-    projectPath: Library\Artifacts\7a\7ac7fa4994cf3675c6f5b450ca16f71a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7c\7ca54a5fd05613c8c4d95f1bf61e7cf6
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\7c\7ca54a5fd05613c8c4d95f1bf61e7cf6
-    projectPath: Library\Artifacts\7c\7ca54a5fd05613c8c4d95f1bf61e7cf6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\80\806a24d4cbfb06d6a2c0a5961ee59852
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\80\806a24d4cbfb06d6a2c0a5961ee59852
-    projectPath: Library\Artifacts\80\806a24d4cbfb06d6a2c0a5961ee59852
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
-    projectPath: Library\Artifacts\82\8280fe6f8c2eda57d54792db57b958ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\84d811343b66c167f84a82f9e3ba9354
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\84\84d811343b66c167f84a82f9e3ba9354
-    projectPath: Library\Artifacts\84\84d811343b66c167f84a82f9e3ba9354
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\88\88489d7929d3e7517032e136d581bba0
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\88\88489d7929d3e7517032e136d581bba0
-    projectPath: Library\Artifacts\88\88489d7929d3e7517032e136d581bba0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\90\90f75282d20b2fe35e9c26c61245a9b5
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\90\90f75282d20b2fe35e9c26c61245a9b5
-    projectPath: Library\Artifacts\90\90f75282d20b2fe35e9c26c61245a9b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\95\95e415af966ce8da58372934ba32995f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\95\95e415af966ce8da58372934ba32995f
-    projectPath: Library\Artifacts\95\95e415af966ce8da58372934ba32995f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\9677cc4b9649447829e6f56033fee929
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\96\9677cc4b9649447829e6f56033fee929
-    projectPath: Library\Artifacts\96\9677cc4b9649447829e6f56033fee929
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\99\9982c0a3eeee309feb28d86896d2f770
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\99\9982c0a3eeee309feb28d86896d2f770
-    projectPath: Library\Artifacts\99\9982c0a3eeee309feb28d86896d2f770
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a3fb23db311153083b38d8404ca9f09e
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\a3\a3fb23db311153083b38d8404ca9f09e
-    projectPath: Library\Artifacts\a3\a3fb23db311153083b38d8404ca9f09e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ac\ac2a91452bb38f934e197a95487b5898
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\ac\ac2a91452bb38f934e197a95487b5898
-    projectPath: Library\Artifacts\ac\ac2a91452bb38f934e197a95487b5898
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
-    projectPath: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\be\beb532af261e1f4aaf06beab9e1427bb
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\be\beb532af261e1f4aaf06beab9e1427bb
-    projectPath: Library\Artifacts\be\beb532af261e1f4aaf06beab9e1427bb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bf\bf4320714c2f8f2003ebbe4646428ff6
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\bf\bf4320714c2f8f2003ebbe4646428ff6
-    projectPath: Library\Artifacts\bf\bf4320714c2f8f2003ebbe4646428ff6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2e7b6471f47b2bbeee834d9ebedce23
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\c2\c2e7b6471f47b2bbeee834d9ebedce23
-    projectPath: Library\Artifacts\c2\c2e7b6471f47b2bbeee834d9ebedce23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cd\cdbd20ef49dc54f321c57bf46fcbddba
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\cd\cdbd20ef49dc54f321c57bf46fcbddba
-    projectPath: Library\Artifacts\cd\cdbd20ef49dc54f321c57bf46fcbddba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d1\d1afe3e6ce9013d9808e5d15ad9cc727
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\d1\d1afe3e6ce9013d9808e5d15ad9cc727
-    projectPath: Library\Artifacts\d1\d1afe3e6ce9013d9808e5d15ad9cc727
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d206e6116615c673ec32c06524b994e6
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\d2\d206e6116615c673ec32c06524b994e6
-    projectPath: Library\Artifacts\d2\d206e6116615c673ec32c06524b994e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d262c5ae62eea5848e5a2805f285e506
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\d2\d262c5ae62eea5848e5a2805f285e506
-    projectPath: Library\Artifacts\d2\d262c5ae62eea5848e5a2805f285e506
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
-    projectPath: Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc3b26bacf0cb8c0de447403dcea315d
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\dc\dc3b26bacf0cb8c0de447403dcea315d
-    projectPath: Library\Artifacts\dc\dc3b26bacf0cb8c0de447403dcea315d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc85c3a2ec3678711d86773190e9d9a2
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\dc\dc85c3a2ec3678711d86773190e9d9a2
-    projectPath: Library\Artifacts\dc\dc85c3a2ec3678711d86773190e9d9a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0bcf096c5ae28939cfc5c0318756354
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\e0\e0bcf096c5ae28939cfc5c0318756354
-    projectPath: Library\Artifacts\e0\e0bcf096c5ae28939cfc5c0318756354
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e1\e1dfca59440cba8eceba63eab36b0aaa
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\e1\e1dfca59440cba8eceba63eab36b0aaa
-    projectPath: Library\Artifacts\e1\e1dfca59440cba8eceba63eab36b0aaa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e2\e27ae7d492512c4960cca73870bf504f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\e2\e27ae7d492512c4960cca73870bf504f
-    projectPath: Library\Artifacts\e2\e27ae7d492512c4960cca73870bf504f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e3\e39cbfd7566e5cbb560faca6cf33a2b0
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\e3\e39cbfd7566e5cbb560faca6cf33a2b0
-    projectPath: Library\Artifacts\e3\e39cbfd7566e5cbb560faca6cf33a2b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    projectPath: Library\Artifacts\e4\e43123365b74b889978b8f13e7cdb91f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee9751b8710eddc0e8bd18fa8fc312ed
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\ee\ee9751b8710eddc0e8bd18fa8fc312ed
-    projectPath: Library\Artifacts\ee\ee9751b8710eddc0e8bd18fa8fc312ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\eed185d87827e453ca2826586a774174
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\ee\eed185d87827e453ca2826586a774174
-    projectPath: Library\Artifacts\ee\eed185d87827e453ca2826586a774174
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\f0\f03d0efd078c5b52cdd3536077ecaf8d
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\f0\f03d0efd078c5b52cdd3536077ecaf8d
     projectPath: Library\Artifacts\f0\f03d0efd078c5b52cdd3536077ecaf8d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fa\faf829fe2b08eeacd2c33e3703dec43a
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\fa\faf829fe2b08eeacd2c33e3703dec43a
-    projectPath: Library\Artifacts\fa\faf829fe2b08eeacd2c33e3703dec43a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fd\fdb67a80614161094a6474109afeb279
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Artifacts\fd\fdb67a80614161094a6474109afeb279
-    projectPath: Library\Artifacts\fd\fdb67a80614161094a6474109afeb279
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
-    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\backend_profiler0.traceevents
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
@@ -596,23 +120,11 @@ MonoBehaviour:
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -640,24 +152,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Search\transactions.db
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
@@ -670,681 +164,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\13ce9f54be1239f46c76e31726234c7d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\13ce9f54be1239f46c76e31726234c7d.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\13ce9f54be1239f46c76e31726234c7d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\16627bf343412564ef9885bbd22650d9.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\16627bf343412564ef9885bbd22650d9.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\16627bf343412564ef9885bbd22650d9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1a368f614a37ebe40ab43b0005a32d01.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\1a368f614a37ebe40ab43b0005a32d01.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1a368f614a37ebe40ab43b0005a32d01.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2d32056e8d704cc8a44a3b753d174d4b.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\2d32056e8d704cc8a44a3b753d174d4b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\2d32056e8d704cc8a44a3b753d174d4b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\334736e36ca5d45263cb3d05b062ce5b.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\334736e36ca5d45263cb3d05b062ce5b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\334736e36ca5d45263cb3d05b062ce5b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\4a4ce5bdf5460c656858b671f1d3644f.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\4a4ce5bdf5460c656858b671f1d3644f.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\4a4ce5bdf5460c656858b671f1d3644f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\690527e9dd2cd8f8ae324e27db02ce3b.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\690527e9dd2cd8f8ae324e27db02ce3b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\690527e9dd2cd8f8ae324e27db02ce3b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6d5241b3f4ba07808c274745c80e45f1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\6d5241b3f4ba07808c274745c80e45f1.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\6d5241b3f4ba07808c274745c80e45f1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\73dd23aad463231936d2f6ce7f47efea.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\73dd23aad463231936d2f6ce7f47efea.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\73dd23aad463231936d2f6ce7f47efea.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\744504c30cc775edf864f754d756accf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\744504c30cc775edf864f754d756accf.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\744504c30cc775edf864f754d756accf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7739259da1f988cbd17e4452469fb02a.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7739259da1f988cbd17e4452469fb02a.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7739259da1f988cbd17e4452469fb02a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7f35e858d5a3ba54a0e5bafe727cda3f.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7f35e858d5a3ba54a0e5bafe727cda3f.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7f35e858d5a3ba54a0e5bafe727cda3f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\8eccb0cebdafd933253e88d92a72c114.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\8eccb0cebdafd933253e88d92a72c114.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\8eccb0cebdafd933253e88d92a72c114.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\a0ddc4f9c475c30504183c87f51da1ad.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\a0ddc4f9c475c30504183c87f51da1ad.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\a0ddc4f9c475c30504183c87f51da1ad.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\a3fd0e07c9cd4f7c70f52df195c29b96.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\a3fd0e07c9cd4f7c70f52df195c29b96.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\a3fd0e07c9cd4f7c70f52df195c29b96.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\deb16aa6eb9093b3da7eb91905e49b26.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\deb16aa6eb9093b3da7eb91905e49b26.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\deb16aa6eb9093b3da7eb91905e49b26.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e14723499337164c8eeba9265e97a79d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e14723499337164c8eeba9265e97a79d.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e14723499337164c8eeba9265e97a79d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e5d31601b5979c4ba72b172a96578a4d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\e5d31601b5979c4ba72b172a96578a4d.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\e5d31601b5979c4ba72b172a96578a4d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f5cda5d53330b34628cafb9a4d9282a6.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\builtin\unity_builtin_extra0000\00\f5cda5d53330b34628cafb9a4d9282a6.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\f5cda5d53330b34628cafb9a4d9282a6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\compute\NewComputeShader91d4\00\2ec80bd52df4b8408389e207e6da2713.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\compute\NewComputeShader91d4\00\2ec80bd52df4b8408389e207e6da2713.bin
-    projectPath: Library\ShaderCache\compute\NewComputeShader91d4\00\2ec80bd52df4b8408389e207e6da2713.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\404583ece0cf84c2c157f9b733d6a766.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\404583ece0cf84c2c157f9b733d6a766.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\404583ece0cf84c2c157f9b733d6a766.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\7bf7c1fa7ff707be5d175fc2267b2473.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\7bf7c1fa7ff707be5d175fc2267b2473.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\7bf7c1fa7ff707be5d175fc2267b2473.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\8fe938d37bd62959a1476d05a54f47b8.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\8fe938d37bd62959a1476d05a54f47b8.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\8fe938d37bd62959a1476d05a54f47b8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\af53ca9f0d9705094388be90cbae6fbf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\af53ca9f0d9705094388be90cbae6fbf.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\af53ca9f0d9705094388be90cbae6fbf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\c76813134bee674423902bef24a519e2.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\c76813134bee674423902bef24a519e2.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\c76813134bee674423902bef24a519e2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Cubes_PBL267a\00\d28d3daffee2aa4f4200427c853081ad.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Cubes_PBL267a\00\d28d3daffee2aa4f4200427c853081ad.bin
-    projectPath: Library\ShaderCache\shader\Cubes_PBL267a\00\d28d3daffee2aa4f4200427c853081ad.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\1f8c008f459233ad1de5d88dc7e737d2.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\1f8c008f459233ad1de5d88dc7e737d2.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\1f8c008f459233ad1de5d88dc7e737d2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\783283dbaba4876c31b9c9aaf826fb7d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\783283dbaba4876c31b9c9aaf826fb7d.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\783283dbaba4876c31b9c9aaf826fb7d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\a21909755ba76fe104df2a6919ce3adb.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\a21909755ba76fe104df2a6919ce3adb.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\a21909755ba76fe104df2a6919ce3adb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\d2b5d80b0e89792f39b241846fb935ff.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\d2b5d80b0e89792f39b241846fb935ff.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\d2b5d80b0e89792f39b241846fb935ff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\eb34bd02d498dd43883739181323e3d1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\eb34bd02d498dd43883739181323e3d1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\eb34bd02d498dd43883739181323e3d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT 1684d\00\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT 1684d\00\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT 1684d\00\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT SHader606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT SHader606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\00\7194f052c05734972a64ec494b7a6fa1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\00\78f6ea412dfc00ab9bf556b13666a556.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\1f8c008f459233ad1de5d88dc7e737d2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\783283dbaba4876c31b9c9aaf826fb7d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\a21909755ba76fe104df2a6919ce3adb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\d2b5d80b0e89792f39b241846fb935ff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\eb34bd02d498dd43883739181323e3d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOT606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOT606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOT606a\02\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\253609bdc5614954e3dc96b6ead02835.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\253609bdc5614954e3dc96b6ead02835.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\253609bdc5614954e3dc96b6ead02835.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\38994f9369d283ec39731a1ee187ab87.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\38994f9369d283ec39731a1ee187ab87.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\38994f9369d283ec39731a1ee187ab87.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\38ef65494d4879c2d1824c4209baf841.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\38ef65494d4879c2d1824c4209baf841.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\38ef65494d4879c2d1824c4209baf841.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\4b8eaf4b948989b2073ef1cfe5578019.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\4b8eaf4b948989b2073ef1cfe5578019.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\4b8eaf4b948989b2073ef1cfe5578019.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\635e59ad143bbd748db3eda579174cc4.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\635e59ad143bbd748db3eda579174cc4.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\635e59ad143bbd748db3eda579174cc4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\77f7215c95d4ab854414576bfaa8d463.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\77f7215c95d4ab854414576bfaa8d463.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\77f7215c95d4ab854414576bfaa8d463.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\b367c4919a9be72695363b8935d69fe8.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\b367c4919a9be72695363b8935d69fe8.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\b367c4919a9be72695363b8935d69fe8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\b5df1381206db31be01a0b866bd0511e.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\b5df1381206db31be01a0b866bd0511e.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\b5df1381206db31be01a0b866bd0511e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\c3ddbe299bc1ef69b4240939f7d20d05.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\c3ddbe299bc1ef69b4240939f7d20d05.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\c3ddbe299bc1ef69b4240939f7d20d05.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\cb9bbd90fd9bf68d5f892e6b29315952.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\cb9bbd90fd9bf68d5f892e6b29315952.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\cb9bbd90fd9bf68d5f892e6b29315952.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\cd639eece6c2ef65ad0c3f16f20df311.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\cd639eece6c2ef65ad0c3f16f20df311.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\cd639eece6c2ef65ad0c3f16f20df311.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\00\ee8697d2b2ce101d821d81cb09450d0b.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\00\ee8697d2b2ce101d821d81cb09450d0b.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\00\ee8697d2b2ce101d821d81cb09450d0b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\1f8c008f459233ad1de5d88dc7e737d2.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\1f8c008f459233ad1de5d88dc7e737d2.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\1f8c008f459233ad1de5d88dc7e737d2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\783283dbaba4876c31b9c9aaf826fb7d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\783283dbaba4876c31b9c9aaf826fb7d.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\783283dbaba4876c31b9c9aaf826fb7d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\9b0768a9f5bd9072a1769ab1d1ae1cbc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\a01c3ad444f91ae1bd0977af1d9f30db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\a21909755ba76fe104df2a6919ce3adb.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\a21909755ba76fe104df2a6919ce3adb.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\a21909755ba76fe104df2a6919ce3adb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\d2b5d80b0e89792f39b241846fb935ff.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\d2b5d80b0e89792f39b241846fb935ff.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\d2b5d80b0e89792f39b241846fb935ff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\eb34bd02d498dd43883739181323e3d1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\eb34bd02d498dd43883739181323e3d1.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\eb34bd02d498dd43883739181323e3d1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO SNOTd3dd\01\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO
-      SNOTd3dd\01\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    projectPath: Library\ShaderCache\shader\LEGO SNOTd3dd\01\f6b91fd5be7019b86faa7dd7ebd3cdaf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO_SNOT606a\00\503f8575cb8ab21501307077f580b780.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO_SNOT606a\00\503f8575cb8ab21501307077f580b780.bin
-    projectPath: Library\ShaderCache\shader\LEGO_SNOT606a\00\503f8575cb8ab21501307077f580b780.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO_SNOT606a\00\c4d5b49df57ff576fc8d83ad04e7cb6e.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO_SNOT606a\00\c4d5b49df57ff576fc8d83ad04e7cb6e.bin
-    projectPath: Library\ShaderCache\shader\LEGO_SNOT606a\00\c4d5b49df57ff576fc8d83ad04e7cb6e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO_SNOT606a\02\7194f052c05734972a64ec494b7a6fa1.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO_SNOT606a\02\7194f052c05734972a64ec494b7a6fa1.bin
-    projectPath: Library\ShaderCache\shader\LEGO_SNOT606a\02\7194f052c05734972a64ec494b7a6fa1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\LEGO_SNOT606a\02\78f6ea412dfc00ab9bf556b13666a556.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\LEGO_SNOT606a\02\78f6ea412dfc00ab9bf556b13666a556.bin
-    projectPath: Library\ShaderCache\shader\LEGO_SNOT606a\02\78f6ea412dfc00ab9bf556b13666a556.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\NewUnlitShadere09a\00\15b2c1621fe1b134963064520c38ef00.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\NewUnlitShadere09a\00\15b2c1621fe1b134963064520c38ef00.bin
-    projectPath: Library\ShaderCache\shader\NewUnlitShadere09a\00\15b2c1621fe1b134963064520c38ef00.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\NewUnlitShadere09a\00\e18e45f4ed1f04ab99909968c5610fb0.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\NewUnlitShadere09a\00\e18e45f4ed1f04ab99909968c5610fb0.bin
-    projectPath: Library\ShaderCache\shader\NewUnlitShadere09a\00\e18e45f4ed1f04ab99909968c5610fb0.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\108ee0a9364803f84ddec1ec01b70eb5.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\108ee0a9364803f84ddec1ec01b70eb5.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\108ee0a9364803f84ddec1ec01b70eb5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\29141897a797a8fafdc76e01a1a2ed09.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\29141897a797a8fafdc76e01a1a2ed09.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\29141897a797a8fafdc76e01a1a2ed09.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\3b1f2f5aa20185ed93d7cf5edd50893c.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\3b1f2f5aa20185ed93d7cf5edd50893c.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\3b1f2f5aa20185ed93d7cf5edd50893c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\63c64375669e483c3b6b8df263c48213.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\63c64375669e483c3b6b8df263c48213.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\63c64375669e483c3b6b8df263c48213.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\9296e3f71b53a68535db11805bc1e18d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\9296e3f71b53a68535db11805bc1e18d.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\9296e3f71b53a68535db11805bc1e18d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\eefad204160fab675748b70726ecd427.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\eefad204160fab675748b70726ecd427.bin
-    projectPath: Library\ShaderCache\shader\Pipes_Diffuse_Color_Transparent2a7c\00\eefad204160fab675748b70726ecd427.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\0803eecab2bf1e0b2fd7c3087b93f90e.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\0803eecab2bf1e0b2fd7c3087b93f90e.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\0803eecab2bf1e0b2fd7c3087b93f90e.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\24bafca9739f2f3ad32fb4ad4f56af79.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\24bafca9739f2f3ad32fb4ad4f56af79.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\24bafca9739f2f3ad32fb4ad4f56af79.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\50d9cf0e4ea7dd563e2b6628b5681a10.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\50d9cf0e4ea7dd563e2b6628b5681a10.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\50d9cf0e4ea7dd563e2b6628b5681a10.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\759cc8f89785ab9bf9782ac9038599cd.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\759cc8f89785ab9bf9782ac9038599cd.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\759cc8f89785ab9bf9782ac9038599cd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\ca0844b7a9138d12e48ea7a4316e9e5e.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\ca0844b7a9138d12e48ea7a4316e9e5e.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\ca0844b7a9138d12e48ea7a4316e9e5e.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\00\cfb5e76803a8be0e1128aeb94c055286.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\00\cfb5e76803a8be0e1128aeb94c055286.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\00\cfb5e76803a8be0e1128aeb94c055286.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\0945bd272402d1b3b6ecd89ec656894e.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\0945bd272402d1b3b6ecd89ec656894e.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\0945bd272402d1b3b6ecd89ec656894e.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\7167b01ad699d392d648eba1ab47130c.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\7167b01ad699d392d648eba1ab47130c.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\7167b01ad699d392d648eba1ab47130c.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\82c142fcea32c4b2aff4940fd130838d.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\82c142fcea32c4b2aff4940fd130838d.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\82c142fcea32c4b2aff4940fd130838d.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\890feb10af7f232be019345461bdf6ac.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\890feb10af7f232be019345461bdf6ac.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\890feb10af7f232be019345461bdf6ac.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\9e02357d0fd0d71344302e43251e7f58.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\9e02357d0fd0d71344302e43251e7f58.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\9e02357d0fd0d71344302e43251e7f58.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\a3f32a85dabc8a7705327b498c5863ea.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\a3f32a85dabc8a7705327b498c5863ea.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\a3f32a85dabc8a7705327b498c5863ea.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\a9c2d0344bb2e09b4e29e0b93563604b.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\a9c2d0344bb2e09b4e29e0b93563604b.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\a9c2d0344bb2e09b4e29e0b93563604b.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\d08936999c27442604f839b1d9106ef0.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\d08936999c27442604f839b1d9106ef0.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\d08936999c27442604f839b1d9106ef0.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\ShaderCache\shader\Pipes_PBLd371\03\f4b09c61f5cc757d331a9c16ab200ccc.bin
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\ShaderCache\shader\Pipes_PBLd371\03\f4b09c61f5cc757d331a9c16ab200ccc.bin
-    projectPath: Library\ShaderCache\shader\Pipes_PBLd371\03\f4b09c61f5cc757d331a9c16ab200ccc.bin
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\SourceAssetDB
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1353,31 +175,31 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker1.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker1-prev.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\AssetImportWorker1-prev.log
     projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1388,59 +210,29 @@ MonoBehaviour:
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-03217180d302e2742a9b25e6906a0345
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-03217180d302e2742a9b25e6906a0345
-    projectPath: Temp\FSTimeGet-03217180d302e2742a9b25e6906a0345
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Temp\FSTimeGet-1538f54e15144d744a8a6f1512260d62
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-1538f54e15144d744a8a6f1512260d62
-    projectPath: Temp\FSTimeGet-1538f54e15144d744a8a6f1512260d62
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-375df6d5209254045ae4fb11ea78c61f
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-375df6d5209254045ae4fb11ea78c61f
-    projectPath: Temp\FSTimeGet-375df6d5209254045ae4fb11ea78c61f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-4b123ba24f76b7b4aa5fcbb3a21ef5a7
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-4b123ba24f76b7b4aa5fcbb3a21ef5a7
-    projectPath: Temp\FSTimeGet-4b123ba24f76b7b4aa5fcbb3a21ef5a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-d9c5dd5192e0c164c953089560804c71
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-d9c5dd5192e0c164c953089560804c71
-    projectPath: Temp\FSTimeGet-d9c5dd5192e0c164c953089560804c71
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\FSTimeGet-e0588bd0e53b43e48b85c5ce0b189f76
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-e0588bd0e53b43e48b85c5ce0b189f76
-    projectPath: Temp\FSTimeGet-e0588bd0e53b43e48b85c5ce0b189f76
+  - path: Temp\FSTimeGet-07be2ab3dc731c44eba3d6b2cff18728
+    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\FSTimeGet-07be2ab3dc731c44eba3d6b2cff18728
+    projectPath: Temp\FSTimeGet-07be2ab3dc731c44eba3d6b2cff18728
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1448,17 +240,11 @@ MonoBehaviour:
     fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\UserSettings\Layouts\CurrentMaximizeLayout.dwlt
-    projectPath: UserSettings\Layouts\CurrentMaximizeLayout.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\Temp\workerlic
+    projectPath: Temp\workerlic
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UserSettings\Layouts\default-2021.dwlt
-    fullPath: C:\Users\macyc\Downloads\FYP-GIB3-Legolization-using-Lego-Plates\UserSettings\Layouts\default-2021.dwlt
-    projectPath: UserSettings\Layouts\default-2021.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
