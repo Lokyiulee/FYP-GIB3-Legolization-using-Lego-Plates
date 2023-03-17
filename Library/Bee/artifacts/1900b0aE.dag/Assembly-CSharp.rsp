@@ -368,6 +368,13 @@
 "Assets/OBJImport/TextureLoader/ImageLoaderHelper.cs"
 "Assets/OBJImport/TextureLoader/ImageUtils.cs"
 "Assets/OBJImport/TextureLoader/TGALoader.cs"
+"Assets/Resources/Voxelizer/Scripts/CPUVoxelizer.cs"
+"Assets/Resources/Voxelizer/Scripts/GPUVoxelData.cs"
+"Assets/Resources/Voxelizer/Scripts/GPUVoxelizer.cs"
+"Assets/Resources/Voxelizer/Scripts/Kernel.cs"
+"Assets/Resources/Voxelizer/Scripts/Test.cs"
+"Assets/Resources/Voxelizer/Scripts/Voxel.cs"
+"Assets/Resources/Voxelizer/Scripts/VoxelMesh.cs"
 "Assets/Scipts/button123.cs"
 "Assets/Scipts/CameraControl.cs"
 "Assets/Scipts/OpenFile.cs"
@@ -385,13 +392,6 @@
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserLinux.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserMac.cs"
 "Assets/StandaloneFileBrowser/StandaloneFileBrowserWindows.cs"
-"Assets/Voxelizer/Scripts/CPUVoxelizer.cs"
-"Assets/Voxelizer/Scripts/GPUVoxelData.cs"
-"Assets/Voxelizer/Scripts/GPUVoxelizer.cs"
-"Assets/Voxelizer/Scripts/Kernel.cs"
-"Assets/Voxelizer/Scripts/Test.cs"
-"Assets/Voxelizer/Scripts/Voxel.cs"
-"Assets/Voxelizer/Scripts/VoxelMesh.cs"
 -langversion:9.0
 
 /deterministic
