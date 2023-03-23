@@ -6,8 +6,8 @@ Shader "Modular Bricks/Pipes/PBL" {
 		_MainTex("Base Color", 2D) = "white" {}
 		_Metallic("Metallic", Range(0, 1)) = 0
 		_Gloss("Gloss", Range(0, 1)) = 0.4700855
-		_Radius("Radius", Float) = 0.24
-		_Height("Height", Float) = 0.96
+		_Radius("Radius", Float) = 0.024
+		_Height("Height", Float) = 0.096
 	}
 	SubShader{
 		Tags{"RenderType" = "Opaque"}
@@ -144,6 +144,7 @@ Shader "Modular Bricks/Pipes/PBL" {
 					vertices_down[0] = mid_ip + float4(circle_start.x, 0.0f, circle_start.z, 0.0f);
 					normals[0] = float3(circle_start.x, 0.0f, circle_start.z);
 
+					
 					for (int i = 1; i < 7; i++)
 					{
 						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
@@ -152,6 +153,7 @@ Shader "Modular Bricks/Pipes/PBL" {
 						normals[i] = float3(point_2d.x, 0.0f, point_2d.y);
 						normals[i] = normalize(normals[i]);
 					}
+				
 
 					triStream.Append(CreateInterpolator(vertices_up[0], normal_up, p[0].texcoord0));
 					triStream.Append(CreateInterpolator(vertices_up[6], normal_up, p[0].texcoord0));
@@ -389,6 +391,18 @@ Shader "Modular Bricks/Pipes/PBL" {
 					vertices_down[0] = mid_ip + float4(circle_start.x, 0.0f, circle_start.z, 0.0f);
 					normals[0] = float3(circle_start.x, 0.0f, circle_start.z);
 
+					/*
+					for (int i = 0; i < 7; i++)
+					{
+						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
+						float3 normal = float3(point_2d.x, 0.0f, point_2d.y);
+						normal = normalize(normal * float3(1, 0, -1)); // flip the z-axis
+						vertices_up[i] = mid_ip + float4(point_2d.x, point_2d.y, _Height / 10, 0.0f);
+						vertices_down[i] = mid_ip + float4(point_2d.x, point_2d.y, 0.0f, 0.0f);
+						normals[i] = normal;
+					}
+					*/
+					
 					for (int i = 1; i < 7; i++)
 					{
 						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
@@ -397,6 +411,7 @@ Shader "Modular Bricks/Pipes/PBL" {
 						normals[i] = float3(point_2d.x, 0.0f, point_2d.y);
 						normals[i] = normalize(normals[i]);
 					}
+					
 
 					triStream.Append(CreateInterpolator(vertices_up[0], normal_up, p[0].texcoord0));
 					triStream.Append(CreateInterpolator(vertices_up[6], normal_up, p[0].texcoord0));
@@ -571,6 +586,27 @@ Shader "Modular Bricks/Pipes/PBL" {
 					vertices_down[0] = mid_ip + float4(circle_start.x, 0.0f, circle_start.z, 0.0f);
 					normals[0] = float3(circle_start.x, 0.0f, circle_start.z);
 
+					/*for (int i = 0; i < 7; i++)
+					{
+						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
+						//normals[i] = float3(point_2d.x, 0.0f, point_2d.y);
+						normals[i] = normalize(normals[i] * float3(1, 0, -1));
+						vertices_up[i] = mid_ip + float4(point_2d.x, point_2d.y, _Height / 10, 0.0f);
+						vertices_down[i] = mid_ip + float4(point_2d.x, 0.0f, point_2d.y, 0.0f);
+						normals[i] = normalize(normals[i]);
+					}*/
+					
+					/*for (int i = 0; i < 7; i++)
+					{
+						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
+						float3 normal = float3(point_2d.x, 0.0f, point_2d.y);
+						normal = normalize(normal * float3(1, 0, -1)); // flip the z-axis
+						vertices_up[i] = mid_ip + float4(point_2d.x, _Height / 10, point_2d.y, 0.0f);
+						vertices_down[i] = mid_ip + float4(point_2d.x, point_2d.y, 0.0f, 0.0f);
+						normals[i] = normal;
+					}*/
+					
+					
 					for (int i = 1; i < 7; i++)
 					{
 						float2 point_2d = RotateVector(float2(circle_start.x, circle_start.z), (i * 30));
@@ -579,6 +615,8 @@ Shader "Modular Bricks/Pipes/PBL" {
 						normals[i] = float3(point_2d.x, 0.0f, point_2d.y);
 						normals[i] = normalize(normals[i]);
 					}
+					
+					
 
 					triStream.Append(CreateV2F(vertices_up[0], normal_up));
 					triStream.Append(CreateV2F(vertices_up[6], normal_up));

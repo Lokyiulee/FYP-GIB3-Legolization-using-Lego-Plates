@@ -52,16 +52,16 @@ namespace VoxelSystem {
 			triBuffer.SetData(triangles);
 
             var maxLength = Mathf.Max(bounds.size.x, Mathf.Max(bounds.size.y, bounds.size.z));
-            var unit = 0.8f; // voxel size of 0.8*0.8*0.96cm
+            var unit = 0.08f; // voxel size of 0.8*0.8*0.96cm
             var hunit = unit * 0.5f;
 
             // Extend (min & max) to voxelize boundary surface correctly.
             var start = bounds.min - new Vector3(hunit, hunit, hunit);
             var end = bounds.max + new Vector3(hunit, hunit, hunit);
             var size = end - start;
-            float voxelSizeX = 0.8f;
-            float voxelSizeY = 0.8f;
-            float voxelSizeZ = 0.96f;
+            float voxelSizeX = 0.08f;
+            float voxelSizeY = 0.08f;
+            float voxelSizeZ = 0.096f;
 
             // calculate number of voxels
             int voxelCountX = Mathf.CeilToInt(size.x / voxelSizeX);
