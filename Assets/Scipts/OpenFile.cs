@@ -24,6 +24,8 @@ public class OpenFile : MonoBehaviour
         public static class Globals
     {
         public static string path1 = "";
+        public static Vector3 boundSize;
+        public static Vector3 boundmin;
         public static string path2 = "";
 
         }
@@ -136,20 +138,21 @@ public class OpenFile : MonoBehaviour
     public void FitOnScreen()
     {
         Bounds bound = GetBound(model);
-        Vector3 boundSize = bound.size;
-        float diagonal = Mathf.Sqrt((boundSize.x * boundSize.x) + (boundSize.y * boundSize.y) + (boundSize.z * boundSize.z));
+        Globals.boundSize = bound.size;
+        Globals.boundmin = bound.min;
+        float diagonal = Mathf.Sqrt((Globals.boundSize.x * Globals.boundSize.x) + (Globals.boundSize.y * Globals.boundSize.y) + (Globals.boundSize.z * Globals.boundSize.z));
         //Camera.main.orthographicSize = diagonal / 1.0f;
         Camera.main.transform.position = bound.center;
         //Camera.main.fieldOfView = 10;
         GameObject virtualCam = GameObject.Find("CameraSystem");  //Centering
         Vector3 p = bound.center;
-            if ((boundSize.x/16) > (boundSize.y/9))
+            if ((Globals.boundSize.x/16) > (Globals.boundSize.y/9))
             {
-                p.z = p.z + (float)(boundSize.x/2/ 0.14054083) + boundSize.z ; //tan8
+                p.z = p.z + (float)(Globals.boundSize.x/2/ 0.14054083) + Globals.boundSize.z ; //tan8
             }
             else
             {
-                p.z = p.z + (float)(boundSize.y/2/ 0.06992681) + boundSize.z ; //tan4
+                p.z = p.z + (float)(Globals.boundSize.y/2/ 0.06992681) + Globals.boundSize.z ; //tan4
             }
             
         virtualCam.transform.position = p;
