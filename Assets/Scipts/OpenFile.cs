@@ -42,7 +42,7 @@ public class OpenFile : MonoBehaviour
     public void OnFileUpload(string url) {
         StartCoroutine(OutputRoutineOpen(url));
     }
-#else
+# else
         public void OnClickOpen()
     {
         string[] paths1 = StandaloneFileBrowser.OpenFilePanel("Open File", "", "obj", false);
@@ -64,7 +64,7 @@ public class OpenFile : MonoBehaviour
     }
 #endif
 
-    private IEnumerator OutputRoutineOpen(string url1, string url2)
+        private IEnumerator OutputRoutineOpen(string url1, string url2)
     //private IEnumerator OutputRoutineOpen(string url1)
 
     {

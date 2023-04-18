@@ -61,7 +61,7 @@ namespace VoxelSystem {
             var size = end - start;
             float voxelSizeX = 0.8f;
             float voxelSizeY = 0.8f;
-            float voxelSizeZ = 0.96f;
+            float voxelSizeZ = 0.32f;
 
             // calculate number of voxels
             int voxelCountX = Mathf.CeilToInt(size.x / voxelSizeX);
