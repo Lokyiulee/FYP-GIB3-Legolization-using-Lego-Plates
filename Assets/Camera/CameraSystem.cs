@@ -10,8 +10,8 @@ public class CameraSystem : MonoBehaviour
         Vector3 inputDir = new Vector3(0,0,0);
         if (Input.GetKey(KeyCode.T)) {inputDir.z= -1f;} //zoom in
         if (Input.GetKey(KeyCode.G)) {inputDir.z= +1f;} //zoom out
-        if (Input.GetKey(KeyCode.A)) {inputDir.x= +1f;} //left
-        if (Input.GetKey(KeyCode.D)) {inputDir.x= -1f;} //right
+        if (Input.GetKey(KeyCode.A)) {inputDir.x= -1f;} //object go left
+        if (Input.GetKey(KeyCode.D)) {inputDir.x= +1f;} //object go right
 
         Vector3 moveDir = transform.forward * inputDir.z + transform.right * inputDir.x;
 
