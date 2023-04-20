@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Modular Bricks/Pipes/PBL" {
+Shader "Modular Bricks/Pipes/PBL_Left" {
 	Properties{
 		_Color("Color", Color) = (0.5019608,0.5019608,0.5019608,1)
 		_MainTex("Base Color", 2D) = "white" {}
