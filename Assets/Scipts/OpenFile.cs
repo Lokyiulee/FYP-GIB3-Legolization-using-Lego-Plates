@@ -94,7 +94,8 @@ public class OpenFile : MonoBehaviour
             Debug.Log("AFTER");
 
                 //model = new OBJLoader().Load(textStream1);
-                model.transform.localScale = new Vector3(-1, 1, 1);
+            model.transform.localScale = new Vector3(-1, 1, 1);
+            //model.transform.position = new Vector3(0, 3, 15);
             FitOnScreen();
             GameObject originalGameObject = GameObject.Find("WavefrontObject");
             for(var i = 0; i < originalGameObject.transform.childCount; i++){
